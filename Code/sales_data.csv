@@ -1,0 +1,971 @@
+Date,KPI Metric,Product Category,Region,Product Name,Value
+2023-10-16,Average Order Value,Books,Southwest,trade,9352.196878677873
+2023-04-10,Units Sold,Books,Northeast,plan,8498.76956509152
+2023-05-15,Average Order Value,Electronics,West,do,2326.9611275723637
+2023-03-22,Units Sold,Toys,Midwest,use,8436.938655651124
+2023-03-04,Average Order Value,Home Appliances,Southwest,as,2357.3391626340003
+2023-04-28,Revenue,Home Appliances,Southwest,book,2677.7519145952347
+2023-03-17,Average Order Value,Electronics,Midwest,certain,5063.180591805687
+2023-10-06,Units Sold,Clothing,Midwest,process,5297.792328758835
+2022-10-31,Units Sold,Home Appliances,Midwest,strong,716.8057685724315
+2023-04-29,Units Sold,Electronics,West,prepare,6101.562053525466
+2023-01-17,Revenue,Toys,West,age,5436.610215273928
+2023-04-16,Revenue,Books,Southwest,American,1160.421175190719
+2023-08-23,Average Order Value,Toys,Midwest,third,4464.9419268291185
+2023-04-29,Revenue,Books,Northeast,occur,1192.3384552742646
+2023-04-29,Average Order Value,Home Appliances,Northeast,civil,1063.0765900401307
+2023-08-15,Units Sold,Electronics,Midwest,trip,4779.668444214426
+2023-07-15,Units Sold,Books,Southwest,structure,2186.258583646767
+2022-11-13,Revenue,Home Appliances,Northeast,want,7532.29724888625
+2023-08-24,Units Sold,Toys,West,last,3139.1381774125957
+2023-03-08,Average Order Value,Clothing,West,international,650.0292704566156
+2023-08-08,Units Sold,Books,Southeast,half,5456.318942623458
+2023-09-18,Revenue,Home Appliances,West,you,8540.70682613412
+2023-09-14,Average Order Value,Clothing,West,expert,3517.5549298439746
+2023-09-11,Units Sold,Clothing,Southeast,after,2298.735895653796
+2023-08-29,Units Sold,Books,West,pretty,9402.254960492292
+2023-06-15,Units Sold,Books,Midwest,or,655.431483350661
+2023-02-06,Units Sold,Books,Northeast,store,1878.1370684137744
+2023-06-02,Revenue,Books,Southwest,practice,2761.5527551188743
+2023-04-12,Units Sold,Electronics,Southwest,rock,9235.081257051894
+2023-04-10,Average Order Value,Toys,Midwest,teacher,2111.800320851541
+2023-01-30,Units Sold,Clothing,Southeast,Congress,6294.592777432752
+2023-01-17,Revenue,Books,Midwest,standard,8713.528077167639
+2023-06-18,Average Order Value,Clothing,Southwest,company,4145.730622370818
+2022-12-10,Units Sold,Electronics,Southwest,billion,9594.498061022703
+2022-11-16,Units Sold,Books,Southeast,thousand,9385.896483227645
+2023-06-20,Units Sold,Electronics,Midwest,public,6479.161173818727
+2023-08-06,Revenue,Books,Southwest,hour,454.15554139493196
+2023-05-16,Units Sold,Home Appliances,Southeast,child,8017.729803842171
+2023-06-27,Units Sold,Toys,Southwest,husband,6211.549290461874
+2023-06-27,Average Order Value,Electronics,Midwest,fill,4708.728877056418
+2023-06-24,Average Order Value,Toys,Southeast,language,7203.609112775452
+2023-09-05,Average Order Value,Toys,Southeast,rise,1241.433955817903
+2023-08-13,Average Order Value,Home Appliances,Midwest,itself,3802.0930381516964
+2023-10-07,Units Sold,Books,Southeast,send,4987.684236703711
+2023-02-17,Revenue,Books,Southwest,each,2364.930155124829
+2022-12-26,Revenue,Toys,Midwest,soldier,6249.191530820269
+2023-10-17,Revenue,Toys,Southwest,list,908.2886344554489
+2023-04-01,Units Sold,Books,Northeast,indeed,3714.1617077161295
+2023-01-01,Revenue,Electronics,Midwest,agency,9150.79179560618
+2023-06-10,Revenue,Toys,West,value,3821.6749542926605
+2023-02-06,Average Order Value,Home Appliances,Southwest,ability,6221.380046773262
+2023-09-13,Revenue,Books,Northeast,add,3300.4966341045906
+2023-03-02,Average Order Value,Books,West,power,8160.194753030823
+2023-04-28,Units Sold,Books,Southwest,recently,4259.80425795182
+2022-12-13,Average Order Value,Home Appliances,Southeast,material,1482.7736349758763
+2023-02-09,Revenue,Toys,West,mother,8198.685008168803
+2023-02-05,Units Sold,Books,Southeast,about,62.162987392358154
+2023-05-19,Revenue,Books,West,range,6395.394821730354
+2023-09-30,Units Sold,Books,Northeast,Democrat,3448.9519035221488
+2023-02-09,Average Order Value,Clothing,Southeast,report,7343.185292821337
+2023-04-03,Average Order Value,Clothing,West,vote,6722.338237175528
+2023-09-10,Average Order Value,Clothing,Midwest,him,4461.753776589408
+2023-01-18,Revenue,Home Appliances,Southeast,finally,2615.0957433086583
+2022-11-29,Average Order Value,Books,Northeast,arm,4075.7855999581693
+2023-04-20,Units Sold,Home Appliances,Northeast,eight,6145.218814481713
+2023-05-26,Units Sold,Clothing,Southwest,for,99.67527574388559
+2023-09-22,Units Sold,Books,Midwest,item,6073.519811657165
+2023-07-16,Average Order Value,Clothing,Southeast,shoulder,2747.74770220784
+2023-02-26,Average Order Value,Books,Northeast,subject,3554.4008519995355
+2023-04-08,Units Sold,Books,Northeast,eat,8763.66443425494
+2023-04-15,Revenue,Toys,Southwest,role,4572.3045085544445
+2023-01-31,Average Order Value,Toys,Southwest,most,9672.245133077962
+2023-03-10,Average Order Value,Clothing,Midwest,which,27.773057181570184
+2023-09-18,Average Order Value,Clothing,Northeast,star,5841.510512074698
+2023-04-01,Average Order Value,Electronics,Northeast,large,7613.30084882917
+2023-05-02,Units Sold,Clothing,West,break,8231.867379089052
+2023-08-06,Units Sold,Clothing,Northeast,including,4611.037874397938
+2023-10-26,Revenue,Books,West,size,5085.171439859986
+2023-07-13,Revenue,Toys,West,effort,2658.342163441097
+2023-04-12,Revenue,Clothing,Midwest,floor,12.888574904983836
+2023-02-18,Units Sold,Electronics,West,week,2679.9109768694266
+2023-03-12,Average Order Value,Toys,Northeast,full,6010.57826742896
+2023-01-17,Revenue,Clothing,Northeast,to,4252.575277664706
+2023-07-04,Revenue,Toys,Midwest,message,1890.6297858154826
+2023-06-23,Revenue,Clothing,Midwest,little,3467.6782747667526
+2023-02-21,Average Order Value,Home Appliances,Southeast,very,8822.381404854426
+2023-05-31,Revenue,Home Appliances,West,industry,7981.689095811476
+2023-07-05,Average Order Value,Clothing,West,travel,3352.2376830984667
+2023-01-25,Revenue,Toys,Southeast,take,854.3073422736727
+2022-11-11,Revenue,Clothing,Southeast,home,7372.767797579213
+2022-12-24,Units Sold,Home Appliances,Midwest,under,2800.473464497627
+2022-10-29,Average Order Value,Books,Northeast,see,9311.626914647779
+2023-02-25,Units Sold,Electronics,Midwest,measure,8955.003315307915
+2023-02-20,Units Sold,Toys,Southeast,old,1554.6030549519542
+2022-12-14,Units Sold,Books,West,leader,652.69203139036
+2023-09-26,Revenue,Toys,Southeast,police,6498.502240747717
+2022-12-21,Units Sold,Home Appliances,West,I,869.7854157410547
+2023-03-07,Average Order Value,Electronics,Midwest,government,7348.05616537107
+2023-03-21,Units Sold,Electronics,Southwest,million,5007.0116759702
+2022-12-04,Revenue,Clothing,Southwest,song,7287.830196147492
+2023-09-07,Revenue,Books,Southwest,again,4496.330374285137
+2022-11-09,Average Order Value,Books,Northeast,at,4386.193674827097
+2023-01-01,Average Order Value,Electronics,Northeast,consumer,5490.0510686293455
+2023-09-21,Average Order Value,Home Appliances,Northeast,compare,4116.822038418646
+2023-02-11,Average Order Value,Toys,Midwest,forget,1076.7022304776674
+2023-05-24,Average Order Value,Home Appliances,Midwest,study,1105.4640475728079
+2023-09-02,Revenue,Clothing,Northeast,nearly,5644.136860613512
+2023-08-06,Units Sold,Clothing,Southwest,night,9543.5758513781
+2023-03-03,Revenue,Toys,Northeast,successful,1709.7501004101653
+2023-05-19,Units Sold,Books,Southwest,toward,2329.139527407337
+2022-12-06,Revenue,Books,Northeast,western,8908.203558445346
+2023-03-27,Revenue,Clothing,West,join,5820.909745956839
+2023-08-09,Revenue,Toys,Southwest,later,712.6892113204979
+2023-05-20,Average Order Value,Clothing,Southeast,alone,9131.108638403
+2023-01-04,Average Order Value,Home Appliances,Midwest,onto,2137.7808655182303
+2023-06-05,Average Order Value,Home Appliances,Southwest,ball,3800.498256047773
+2022-10-30,Units Sold,Clothing,Midwest,put,2924.4251264066015
+2023-09-28,Units Sold,Home Appliances,West,participant,8915.684583683984
+2023-07-27,Revenue,Toys,Southeast,cold,8055.7325738925665
+2023-06-07,Average Order Value,Toys,Southeast,understand,208.87663640762142
+2022-12-21,Units Sold,Home Appliances,Midwest,party,8407.45651559267
+2023-10-07,Average Order Value,Toys,Northeast,wide,1279.7978230292504
+2023-02-27,Average Order Value,Toys,Northeast,lose,1294.5927724315766
+2023-09-19,Units Sold,Clothing,Southeast,how,8072.392366693436
+2023-09-29,Average Order Value,Electronics,Northeast,source,6518.040423104841
+2023-07-04,Units Sold,Clothing,Southwest,game,5556.01092093267
+2022-12-09,Average Order Value,Books,Northeast,green,667.0687270254112
+2023-06-02,Revenue,Books,Northeast,social,7941.770115995123
+2023-09-20,Average Order Value,Books,Southeast,we,5282.933998755773
+2023-05-06,Units Sold,Electronics,Southeast,build,7323.534681649685
+2023-01-23,Average Order Value,Books,Southwest,network,1539.2119295165855
+2023-05-10,Average Order Value,Clothing,Northeast,parent,7629.067454458014
+2023-05-19,Units Sold,Toys,Southwest,tonight,1611.4843480197387
+2023-04-10,Average Order Value,Home Appliances,Northeast,one,741.4049850409268
+2023-05-31,Units Sold,Toys,Southwest,hair,3442.4666144762987
+2022-11-17,Revenue,Electronics,Midwest,sound,2554.837474159244
+2023-08-28,Units Sold,Books,Midwest,own,2209.6200787738617
+2022-11-07,Revenue,Books,Southwest,single,8275.095462947285
+2023-03-20,Units Sold,Clothing,Midwest,nothing,8773.114808587792
+2022-10-29,Units Sold,Electronics,Midwest,beautiful,2746.1226321008353
+2023-09-17,Revenue,Home Appliances,West,threat,9906.570882412901
+2023-01-23,Average Order Value,Home Appliances,Southwest,career,4221.058151428394
+2023-02-08,Units Sold,Home Appliances,Northeast,yeah,2029.2757338437978
+2023-02-28,Revenue,Electronics,Northeast,among,8494.960634242925
+2023-05-05,Units Sold,Clothing,Midwest,sense,5644.155661775448
+2023-02-06,Revenue,Books,West,herself,4111.3166709844545
+2022-11-22,Revenue,Clothing,Southwest,fear,73.72238332508519
+2023-03-23,Units Sold,Electronics,Southeast,sea,7155.894177103146
+2023-06-12,Units Sold,Toys,West,us,6895.030626284704
+2023-06-07,Average Order Value,Clothing,Southeast,Mrs,8009.131181851143
+2023-05-06,Units Sold,Clothing,Midwest,land,1568.1374669114296
+2023-01-20,Revenue,Toys,Southeast,tell,1343.1126239881037
+2023-08-25,Units Sold,Home Appliances,Southwest,sell,7985.411145474444
+2023-07-04,Units Sold,Home Appliances,Southwest,top,6234.751356904597
+2023-09-14,Units Sold,Home Appliances,West,discuss,6859.38020344303
+2023-08-19,Average Order Value,Home Appliances,Midwest,generation,8194.67830087917
+2022-12-25,Revenue,Books,Southwest,board,9507.507220262672
+2023-07-13,Units Sold,Toys,Midwest,keep,7551.285938269806
+2023-07-31,Units Sold,Electronics,West,ahead,5372.503153904986
+2023-03-12,Units Sold,Clothing,Northeast,gas,9397.789804351403
+2023-03-27,Average Order Value,Books,West,necessary,2125.6656819995715
+2023-01-27,Average Order Value,Electronics,West,way,4957.330981731258
+2023-08-04,Average Order Value,Clothing,Southwest,key,6909.5311401110885
+2023-05-12,Revenue,Electronics,West,reach,5175.689594200265
+2023-05-09,Units Sold,Electronics,West,cultural,4756.652891388627
+2023-04-13,Units Sold,Toys,Northeast,bag,1308.3099443779158
+2022-11-08,Average Order Value,Electronics,Southwest,evening,7190.134708701235
+2023-03-24,Units Sold,Electronics,Midwest,job,7308.446061751252
+2022-12-09,Average Order Value,Clothing,Southeast,customer,3348.6900526120558
+2023-08-11,Average Order Value,Electronics,West,painting,3394.9715161346166
+2023-07-04,Average Order Value,Clothing,Southwest,hot,9895.784201141352
+2023-01-28,Units Sold,Toys,Northeast,big,7941.015561147449
+2023-01-05,Average Order Value,Books,Midwest,short,729.3473064893526
+2023-09-09,Units Sold,Electronics,West,sit,2699.6503667894003
+2023-08-02,Units Sold,Toys,Southwest,son,7640.08758061373
+2023-05-29,Revenue,Clothing,Southwest,still,4336.829007069052
+2023-04-25,Average Order Value,Electronics,West,wrong,8892.077468286596
+2023-01-15,Average Order Value,Clothing,West,decade,95.61446362463151
+2023-06-29,Average Order Value,Books,Northeast,world,6110.43219854033
+2023-09-06,Units Sold,Home Appliances,West,fight,1466.4505026411955
+2023-08-11,Units Sold,Electronics,Northeast,push,80.79160814706714
+2023-10-01,Units Sold,Home Appliances,Midwest,mention,49.522851332964585
+2022-11-14,Units Sold,Toys,West,know,2574.706729281038
+2023-03-21,Units Sold,Home Appliances,Northeast,production,9732.373249184151
+2022-11-05,Revenue,Clothing,Southeast,seek,9383.951581175017
+2023-02-21,Average Order Value,Toys,Southeast,degree,5816.868870715154
+2023-09-29,Revenue,Home Appliances,Midwest,relate,67.68359987070257
+2023-08-24,Average Order Value,Electronics,Northeast,mean,8396.34704957667
+2023-01-07,Units Sold,Toys,Midwest,science,4986.380941198067
+2023-04-04,Units Sold,Toys,Southeast,no,9796.130452477879
+2023-09-11,Revenue,Electronics,Northeast,treat,4301.030393781125
+2022-12-10,Average Order Value,Electronics,Midwest,direction,1398.3092023027252
+2023-05-01,Revenue,Home Appliances,Midwest,option,309.077627595802
+2023-07-13,Revenue,Books,West,outside,1659.3080182188248
+2023-09-17,Revenue,Home Appliances,Midwest,once,4877.729049533267
+2023-03-13,Revenue,Home Appliances,Northeast,entire,8250.575193722425
+2023-02-06,Units Sold,Books,Southeast,employee,9717.665002560772
+2023-03-30,Average Order Value,Clothing,West,affect,3600.0496927096215
+2023-04-23,Revenue,Home Appliances,Northeast,available,5034.209055140961
+2023-01-17,Units Sold,Toys,Northeast,concern,9233.194647263585
+2023-05-06,Revenue,Clothing,Northeast,card,2259.6579058240454
+2023-09-15,Average Order Value,Books,West,bad,1246.7968699411417
+2023-09-21,Units Sold,Electronics,Southeast,yourself,9362.965383025985
+2022-11-27,Average Order Value,Home Appliances,West,market,2980.5793294468162
+2023-04-08,Average Order Value,Books,Midwest,culture,1365.0948293337601
+2022-12-12,Revenue,Books,West,behavior,811.9505913338144
+2022-11-16,Average Order Value,Books,Southwest,might,6863.901793350016
+2022-11-14,Revenue,Electronics,Midwest,his,7414.494006872494
+2023-06-17,Units Sold,Books,Northeast,off,8054.328552854568
+2022-11-29,Units Sold,Electronics,West,according,8033.9331772631795
+2023-10-11,Average Order Value,Toys,Northeast,table,8878.550022443133
+2023-03-01,Average Order Value,Clothing,Northeast,firm,9065.794202427805
+2023-02-13,Revenue,Toys,Northeast,think,4453.79500493235
+2023-06-26,Revenue,Electronics,Southeast,moment,6668.796552419285
+2023-01-03,Units Sold,Books,Southeast,specific,7472.939609414722
+2023-06-13,Revenue,Books,Northeast,goal,3887.038329647139
+2023-09-13,Units Sold,Home Appliances,Midwest,sort,156.61105705277453
+2023-08-30,Units Sold,Toys,Southwest,stay,5314.470391012574
+2022-12-07,Units Sold,Home Appliances,Northeast,through,8343.010431021152
+2023-08-30,Average Order Value,Clothing,Midwest,light,5553.623568721916
+2023-05-30,Average Order Value,Clothing,Northeast,nature,9467.782406736911
+2023-06-12,Units Sold,Home Appliances,Southwest,argue,776.4470838593484
+2023-05-24,Average Order Value,Electronics,Southeast,hospital,552.823602499073
+2023-09-21,Units Sold,Clothing,Southwest,protect,3527.10977015237
+2023-06-27,Revenue,Electronics,Northeast,carry,7723.659188108528
+2023-05-19,Average Order Value,Toys,Midwest,piece,3370.670797094122
+2023-07-14,Revenue,Electronics,Southeast,let,2472.333761144261
+2023-05-28,Revenue,Toys,Southwest,sure,5677.4325663406635
+2023-06-09,Average Order Value,Home Appliances,Southwest,produce,8457.46297028567
+2022-11-05,Average Order Value,Books,Northeast,yard,52.92536484861338
+2023-01-24,Units Sold,Clothing,Southwest,people,5784.095808365309
+2023-02-19,Revenue,Electronics,Southeast,somebody,1443.7111893400245
+2023-01-23,Units Sold,Toys,Southwest,wife,5185.619574061016
+2022-11-22,Revenue,Books,Northeast,find,4361.621668398197
+2022-12-11,Average Order Value,Books,Midwest,executive,8970.47858545834
+2023-03-27,Units Sold,Toys,Southwest,say,7707.691573731216
+2023-01-25,Average Order Value,Clothing,Southwest,manage,5890.417030031488
+2023-08-31,Revenue,Home Appliances,Midwest,also,2954.3790621271796
+2023-06-16,Units Sold,Toys,Northeast,throughout,1494.0536824879282
+2023-06-11,Units Sold,Toys,Southeast,station,7102.231823643346
+2022-12-28,Average Order Value,Toys,Southeast,poor,7865.800286449236
+2023-06-09,Average Order Value,Home Appliances,Southwest,over,838.743953740245
+2023-01-05,Revenue,Electronics,Southwest,her,1460.478861453491
+2022-12-30,Revenue,Electronics,Northeast,stop,4217.588632489827
+2023-05-11,Units Sold,Home Appliances,Northeast,stock,4737.990146453235
+2023-07-23,Average Order Value,Clothing,Northeast,create,2785.2712485229204
+2023-02-06,Average Order Value,Clothing,Northeast,rest,2092.9365193381213
+2023-06-29,Average Order Value,Toys,Midwest,administration,4032.7168013271203
+2023-03-22,Units Sold,Books,West,interview,4619.113705195708
+2023-07-10,Average Order Value,Clothing,Midwest,information,5801.041348118287
+2023-02-18,Average Order Value,Toys,Northeast,series,5370.662463136747
+2023-09-04,Units Sold,Home Appliances,West,deal,6181.428155535831
+2023-08-02,Average Order Value,Toys,Midwest,act,4572.072635350988
+2023-05-11,Average Order Value,Home Appliances,Northeast,they,8084.493858642504
+2023-05-20,Average Order Value,Clothing,Northeast,upon,4067.0451414756385
+2023-04-01,Average Order Value,Home Appliances,West,per,2849.3896679390186
+2023-06-06,Revenue,Home Appliances,West,exist,4062.8755158765775
+2023-01-14,Average Order Value,Toys,Northeast,foot,3420.9227794874937
+2023-05-30,Average Order Value,Clothing,West,side,8288.18782355982
+2023-10-14,Revenue,Home Appliances,Southwest,hear,1111.7902111647115
+2023-05-21,Revenue,Clothing,Southeast,hope,7016.177652241262
+2023-05-05,Average Order Value,Clothing,Northeast,TV,4567.113681438343
+2022-11-27,Units Sold,Electronics,Southeast,decide,3455.3987151779593
+2023-10-14,Revenue,Home Appliances,West,cause,4711.0946030026325
+2023-04-22,Average Order Value,Toys,Northeast,site,2618.373792334492
+2023-03-05,Revenue,Home Appliances,Southeast,however,6018.85615721375
+2023-07-20,Average Order Value,Electronics,Midwest,character,3063.4032825833324
+2022-12-27,Revenue,Toys,Southwest,player,3337.717418282869
+2023-07-26,Revenue,Books,West,purpose,4413.621229784605
+2023-09-28,Average Order Value,Toys,Southwest,although,107.08288711506553
+2022-10-30,Units Sold,Books,Northeast,whole,8446.336414714906
+2023-04-07,Units Sold,Clothing,Northeast,other,4946.925699823742
+2023-10-15,Revenue,Electronics,Southwest,tax,1685.6968028288684
+2023-01-09,Units Sold,Home Appliances,Southeast,speech,1537.685280242463
+2022-11-28,Revenue,Clothing,Southeast,garden,4153.295830075387
+2023-05-25,Average Order Value,Toys,Southeast,inside,9402.006507453696
+2022-12-28,Revenue,Books,Southwest,improve,2262.1529243087684
+2022-11-07,Revenue,Toys,Northeast,benefit,7878.313678860139
+2023-10-13,Units Sold,Clothing,Southeast,city,5557.326652271367
+2023-01-04,Average Order Value,Toys,Southeast,official,861.8992923238021
+2023-10-24,Revenue,Books,Northeast,collection,5340.152221093631
+2023-05-30,Revenue,Electronics,West,knowledge,8463.180963814553
+2023-10-03,Revenue,Electronics,Northeast,pass,353.167082117196
+2023-03-27,Revenue,Clothing,Southwest,development,6522.407965873359
+2022-12-05,Revenue,Books,Northeast,risk,6001.5115132498495
+2022-12-13,Average Order Value,Toys,Midwest,student,8582.530611443524
+2023-04-16,Average Order Value,Toys,Midwest,bill,3184.5164640694024
+2023-09-10,Revenue,Home Appliances,Southeast,clearly,8246.01730789931
+2022-12-28,Revenue,Toys,West,my,7253.987046261337
+2022-12-11,Units Sold,Home Appliances,Southeast,rich,8405.008548528082
+2023-02-13,Units Sold,Toys,Northeast,voice,7823.367096097037
+2023-06-29,Revenue,Toys,West,senior,4501.415062922379
+2023-05-09,Units Sold,Toys,Northeast,model,3330.4219801941977
+2022-12-25,Units Sold,Clothing,Southeast,yes,9258.463920408292
+2023-05-05,Average Order Value,Books,Southwest,particularly,764.6019116723216
+2023-02-17,Units Sold,Home Appliances,Southeast,develop,771.3792663188401
+2023-02-08,Revenue,Toys,Southeast,dark,5329.998528912792
+2023-07-20,Units Sold,Toys,Southwest,director,308.27701768129924
+2023-01-12,Average Order Value,Books,Southwest,if,996.0732458455354
+2022-12-07,Average Order Value,Books,West,why,3898.9272015668407
+2023-07-31,Units Sold,Home Appliances,Midwest,along,715.7397726183901
+2023-09-05,Revenue,Home Appliances,West,stuff,979.386262133594
+2023-08-18,Revenue,Home Appliances,Southeast,drop,9257.023333041872
+2022-11-20,Units Sold,Books,West,beat,7550.420334602277
+2023-05-09,Average Order Value,Clothing,Southeast,reality,9254.777638095036
+2022-12-13,Average Order Value,Electronics,Northeast,dinner,4844.82605512423
+2022-12-14,Average Order Value,Books,Midwest,family,3603.119625180141
+2023-04-16,Units Sold,Clothing,West,life,1100.1817835159018
+2023-07-17,Revenue,Books,Northeast,but,316.33241651619596
+2023-06-04,Revenue,Toys,Southeast,impact,5606.539440423652
+2023-05-19,Revenue,Toys,West,policy,2771.2877662204733
+2023-04-23,Average Order Value,Toys,Southeast,into,9224.190571837851
+2023-01-13,Average Order Value,Toys,Southwest,school,8856.094150772398
+2023-02-28,Average Order Value,Home Appliances,Northeast,two,7360.9170721165765
+2023-10-18,Average Order Value,Home Appliances,Southeast,democratic,8098.793442595055
+2023-03-23,Average Order Value,Books,Southeast,major,3337.3480049870404
+2023-06-03,Units Sold,Books,Midwest,environment,2548.852057140627
+2023-05-03,Average Order Value,Clothing,Midwest,ask,1819.4360042872431
+2023-07-26,Average Order Value,Electronics,West,difficult,449.7513421280833
+2022-12-25,Revenue,Electronics,Northeast,case,2101.382905458749
+2022-11-13,Units Sold,Home Appliances,Northeast,try,9260.963065700538
+2022-11-06,Units Sold,Clothing,Southwest,now,1113.1108762479898
+2023-08-05,Units Sold,Toys,Northeast,image,5326.350826935177
+2023-06-13,Revenue,Electronics,Southwest,suddenly,5595.003144620714
+2023-06-11,Average Order Value,Toys,Southeast,anything,2930.004077735491
+2023-04-18,Average Order Value,Toys,Northeast,walk,1213.5298859329084
+2022-12-02,Revenue,Home Appliances,Midwest,center,5045.380473985886
+2023-05-23,Average Order Value,Home Appliances,Southwest,kitchen,3313.0203721691223
+2023-07-22,Average Order Value,Clothing,Midwest,likely,8358.474149124326
+2023-10-06,Average Order Value,Toys,West,growth,5542.366184754763
+2022-12-04,Units Sold,Toys,Northeast,future,7586.794931614489
+2023-04-09,Revenue,Electronics,Southwest,finish,2207.2313388453704
+2023-08-22,Units Sold,Books,Southwest,scientist,7675.730537495319
+2023-05-19,Average Order Value,Books,Midwest,leg,1751.9800076431168
+2022-11-09,Revenue,Toys,Northeast,nation,2573.303687792077
+2023-08-18,Revenue,Toys,Southeast,type,6271.76397138213
+2023-06-13,Average Order Value,Toys,Southwest,pay,3850.7934673034606
+2023-01-30,Revenue,Electronics,Northeast,whatever,4039.3122253999636
+2023-09-30,Average Order Value,Home Appliances,Southeast,today,262.34496175721694
+2023-03-16,Average Order Value,Clothing,Southeast,everyone,2839.1085941991805
+2023-09-17,Average Order Value,Electronics,West,never,2775.686476413864
+2022-12-20,Revenue,Clothing,Southeast,several,3955.6894710232073
+2023-07-23,Revenue,Toys,Southwest,remain,710.0588322167146
+2023-08-05,Revenue,Toys,Northeast,remember,1302.7978326174075
+2023-02-09,Average Order Value,Home Appliances,Southeast,southern,9871.748741700252
+2023-09-17,Units Sold,Electronics,Southeast,magazine,8570.995327311637
+2023-10-01,Revenue,Books,West,hit,3128.7767206451285
+2023-06-23,Units Sold,Clothing,Northeast,test,2458.0353793733943
+2022-11-21,Units Sold,Clothing,Southwest,behind,8693.399956574409
+2023-07-29,Average Order Value,Electronics,Southeast,particular,1069.330608902441
+2023-01-17,Average Order Value,Electronics,Southwest,media,2703.581599325732
+2023-05-31,Revenue,Home Appliances,Northeast,economic,2828.5093120605607
+2023-02-18,Average Order Value,Books,West,our,2713.921850535334
+2022-11-09,Units Sold,Toys,Southwest,team,2356.993876372482
+2023-06-11,Revenue,Home Appliances,Midwest,general,4087.574182978187
+2023-07-31,Units Sold,Toys,Midwest,many,239.49189133135448
+2023-04-10,Revenue,Electronics,Southwest,unit,7049.661556977339
+2023-07-17,Revenue,Books,Southwest,music,2274.7119112518003
+2023-04-10,Revenue,Home Appliances,West,grow,689.6404565108542
+2023-06-26,Units Sold,Home Appliances,West,woman,127.19629696518683
+2023-02-07,Revenue,Books,Southeast,race,640.8318834369608
+2023-09-29,Average Order Value,Electronics,Midwest,myself,7282.774673087627
+2023-06-26,Units Sold,Books,West,all,7755.85860252415
+2022-11-25,Average Order Value,Books,Southwest,society,8116.958370070888
+2022-12-26,Revenue,Clothing,Midwest,data,3908.3534674025354
+2023-02-13,Average Order Value,Home Appliances,West,early,18.154882622099535
+2023-05-14,Revenue,Toys,West,prove,1018.5539224900169
+2023-02-06,Units Sold,Toys,Southeast,of,9567.366280775666
+2023-07-05,Revenue,Clothing,West,claim,4979.213454779033
+2022-11-06,Revenue,Electronics,Southwest,bring,7569.165943596237
+2023-01-04,Units Sold,Books,Southwest,candidate,1950.815328937537
+2023-09-17,Units Sold,Home Appliances,West,care,1919.5250739642656
+2022-12-10,Units Sold,Books,Southeast,them,4442.963474706197
+2023-02-15,Average Order Value,Home Appliances,Midwest,car,9335.395335104362
+2023-08-09,Revenue,Books,West,guy,7137.240703790196
+2023-04-16,Average Order Value,Electronics,West,stand,8533.977610947222
+2023-01-23,Average Order Value,Clothing,Midwest,blue,6542.681518764774
+2023-03-12,Units Sold,Books,Southwest,skill,1324.385204742695
+2022-11-03,Revenue,Electronics,Southeast,bit,4356.071786131327
+2023-10-20,Units Sold,Toys,Midwest,town,6709.206525849397
+2023-07-31,Average Order Value,Toys,Northeast,whom,3844.7105278545755
+2023-01-12,Revenue,Toys,Southeast,recognize,8946.023267073047
+2023-05-10,Revenue,Clothing,Northeast,positive,5191.369285934211
+2022-11-01,Average Order Value,Electronics,Southeast,oil,1146.4827486263289
+2023-06-17,Units Sold,Home Appliances,West,suffer,5157.036077330164
+2022-12-02,Units Sold,Books,West,history,9217.29680878581
+2023-01-18,Units Sold,Electronics,Southeast,religious,1841.4035471496322
+2023-02-22,Units Sold,Home Appliances,West,house,4829.437608898537
+2023-08-24,Units Sold,Electronics,Southeast,white,9611.470580041487
+2023-09-04,Units Sold,Home Appliances,Northeast,former,6840.359694792821
+2022-11-01,Revenue,Electronics,West,detail,6300.251517428526
+2022-11-11,Units Sold,Electronics,West,line,2996.207417636647
+2023-06-04,Units Sold,Books,Southwest,crime,260.70131838182164
+2023-09-01,Revenue,Clothing,Southwest,individual,6427.03652597011
+2023-10-17,Revenue,Toys,Midwest,low,8677.592291067678
+2023-09-06,Revenue,Books,Northeast,worry,8477.055525458098
+2023-08-18,Average Order Value,Electronics,Southeast,decision,1009.1979114601469
+2023-05-15,Average Order Value,Electronics,West,sport,5697.457774303272
+2023-05-15,Average Order Value,Electronics,Midwest,and,2636.9723725026806
+2023-07-28,Units Sold,Electronics,Northeast,catch,3003.3272461217134
+2023-01-04,Average Order Value,Electronics,Southwest,Mr,2402.031649689572
+2023-05-23,Average Order Value,Toys,Midwest,area,3558.2313462386055
+2023-04-15,Revenue,Electronics,Southwest,color,8056.070234071504
+2023-07-12,Revenue,Books,Northeast,move,6706.499357731828
+2023-07-30,Average Order Value,Books,Midwest,fine,2433.9325059981143
+2023-06-15,Average Order Value,Toys,Southeast,action,1936.5447221559755
+2023-05-26,Revenue,Toys,Northeast,important,1954.281402693782
+2023-03-16,Units Sold,Electronics,West,away,8125.967841590823
+2023-09-28,Revenue,Toys,Northeast,paper,4429.092339672268
+2023-01-24,Average Order Value,Toys,Southeast,present,1166.2799092287694
+2022-11-24,Revenue,Clothing,Southwest,choice,2089.389658659149
+2023-09-03,Average Order Value,Home Appliances,Northeast,energy,5353.393499526433
+2023-07-19,Units Sold,Electronics,Southeast,not,4701.393705321661
+2023-10-20,Average Order Value,Clothing,Southwest,sometimes,1818.6394111722097
+2022-11-13,Revenue,Electronics,Northeast,officer,7640.023558950306
+2023-06-25,Units Sold,Electronics,Southeast,adult,9209.857368962146
+2023-10-14,Revenue,Toys,Southwest,spend,2949.6215995046127
+2023-01-11,Units Sold,Books,Midwest,follow,412.00417103761293
+2023-07-02,Revenue,Electronics,West,rather,9615.210117132248
+2023-07-05,Units Sold,Home Appliances,Southeast,end,527.6373940229474
+2023-07-23,Units Sold,Home Appliances,West,sing,1746.033854706314
+2023-09-05,Average Order Value,Toys,Southwest,weight,747.5232860302825
+2022-12-16,Units Sold,Toys,Midwest,notice,3018.008788126338
+2023-07-26,Revenue,Clothing,Midwest,treatment,5251.27795749762
+2023-09-15,Average Order Value,Home Appliances,Midwest,check,5337.790938795657
+2023-10-11,Average Order Value,Clothing,Southwest,perform,1542.1036528623652
+2023-08-03,Average Order Value,Books,Southeast,who,1123.8717410876732
+2023-10-24,Average Order Value,Toys,Southwest,ago,1528.8850055566752
+2023-05-11,Average Order Value,Clothing,Southwest,training,9529.001879498517
+2023-01-10,Average Order Value,Books,Northeast,program,2951.2271342423815
+2023-08-07,Units Sold,Electronics,Southeast,get,7324.581232687498
+2023-01-15,Average Order Value,Toys,West,wall,6214.939518073981
+2023-09-08,Units Sold,Books,Southeast,themselves,7535.901326999834
+2023-08-25,Units Sold,Toys,Southeast,medical,4638.174043967451
+2023-02-21,Average Order Value,Books,West,form,5085.864369254587
+2023-01-13,Revenue,Clothing,Northeast,air,6534.0415401097935
+2023-08-27,Average Order Value,Home Appliances,Midwest,audience,1664.0896033065887
+2023-07-24,Revenue,Books,Southwest,when,8693.844682595147
+2023-02-17,Average Order Value,Electronics,Midwest,quickly,4468.983355610233
+2023-01-16,Units Sold,Electronics,Midwest,by,7935.9519652212
+2023-05-29,Average Order Value,Books,Midwest,result,2140.858293075989
+2023-04-28,Average Order Value,Electronics,Northeast,rate,3785.5240150818736
+2023-04-03,Revenue,Home Appliances,Southeast,speak,4889.946657787207
+2023-04-08,Units Sold,Home Appliances,West,head,2038.5364248083467
+2022-12-27,Average Order Value,Toys,Midwest,economy,143.259039982914
+2023-09-11,Average Order Value,Books,Southwest,chair,4974.686436321051
+2023-03-26,Average Order Value,Toys,Midwest,wonder,6580.919716315821
+2023-07-01,Revenue,Toys,Midwest,across,5816.497427216742
+2023-09-14,Average Order Value,Clothing,Northeast,term,2749.3152107032206
+2022-11-07,Average Order Value,Electronics,West,cell,5220.707738216481
+2023-09-18,Units Sold,Home Appliances,Southeast,activity,1240.5570630270756
+2023-09-16,Units Sold,Electronics,Midwest,change,2215.8840556809105
+2022-12-01,Revenue,Books,Midwest,ground,3456.228430605048
+2022-12-28,Units Sold,Home Appliances,Southeast,while,4420.579867981897
+2023-04-02,Average Order Value,Toys,Southeast,step,4560.369442292139
+2023-08-10,Units Sold,Books,Southeast,none,2535.0556248537846
+2023-07-26,Average Order Value,Toys,Northeast,animal,9914.692775397285
+2023-02-15,Units Sold,Clothing,Southwest,raise,1563.5529906078043
+2023-08-11,Average Order Value,Toys,Midwest,national,9762.255102419955
+2023-05-26,Revenue,Books,Midwest,central,615.8529606060954
+2022-10-28,Units Sold,Clothing,West,method,3358.3998760268873
+2023-01-30,Revenue,Home Appliances,Southwest,attack,2900.1151662814464
+2023-04-17,Revenue,Clothing,Southeast,in,3866.409462336646
+2023-06-29,Revenue,Books,West,me,9447.889505449379
+2023-09-23,Average Order Value,Home Appliances,Northeast,final,2574.5205498175746
+2023-01-23,Units Sold,Toys,Southwest,happen,1455.148842767278
+2022-11-13,Units Sold,Toys,Northeast,everybody,2755.1715675501846
+2023-06-16,Units Sold,Books,Northeast,morning,2642.830596224207
+2023-04-17,Revenue,Books,Midwest,shake,7642.818643053476
+2023-05-07,Average Order Value,Books,Northeast,give,1531.7969438300536
+2023-09-19,Units Sold,Toys,Northeast,thank,1255.0061247215317
+2023-08-03,Units Sold,Clothing,Midwest,issue,8730.115767016729
+2023-08-27,Average Order Value,Toys,Midwest,movement,8260.5089076436
+2023-07-01,Average Order Value,Clothing,Midwest,realize,3676.3149054459377
+2023-08-08,Units Sold,Home Appliances,West,have,9152.673241990586
+2023-07-23,Average Order Value,Electronics,Northeast,point,3292.350395788508
+2023-05-27,Units Sold,Clothing,West,first,5245.934824270333
+2022-12-26,Average Order Value,Toys,Midwest,physical,863.703559502188
+2023-05-04,Revenue,Home Appliances,Southwest,either,753.2733412836288
+2023-05-11,Revenue,Books,West,your,2784.3421947376432
+2023-05-20,Revenue,Home Appliances,Southeast,ever,3774.551017307315
+2023-03-18,Units Sold,Books,West,become,3852.9289476826752
+2022-12-01,Average Order Value,Clothing,West,field,6334.997904474161
+2023-02-19,Average Order Value,Electronics,Southwest,others,1438.223283897577
+2023-08-06,Units Sold,Home Appliances,West,design,1609.5381254575161
+2023-02-21,Units Sold,Home Appliances,Northeast,live,7165.8276757066815
+2023-08-10,Revenue,Electronics,Southwest,what,3474.051616285952
+2023-07-19,Revenue,Books,Midwest,story,9501.391282394627
+2023-02-02,Units Sold,Home Appliances,Southwest,laugh,4083.27323875193
+2023-03-13,Average Order Value,Toys,Southeast,figure,3035.4951535696423
+2023-04-10,Units Sold,Books,Southeast,ten,9266.068286697368
+2022-11-09,Revenue,Home Appliances,West,it,3170.853929532989
+2022-11-10,Units Sold,Home Appliances,Midwest,similar,119.93209731292592
+2023-03-12,Revenue,Clothing,West,certainly,3310.578180338776
+2022-12-18,Revenue,Electronics,Southeast,tough,6950.805858338982
+2023-09-09,Units Sold,Electronics,Southeast,far,2992.783755371871
+2023-05-18,Units Sold,Books,West,time,5282.085732903213
+2023-01-29,Average Order Value,Toys,Midwest,church,1072.5034460652942
+2023-04-26,Average Order Value,Home Appliances,Southeast,building,319.77299364896885
+2023-08-17,Units Sold,Toys,West,girl,8378.928974830531
+2023-09-20,Units Sold,Electronics,West,imagine,8108.044286714125
+2023-05-27,Units Sold,Clothing,Southwest,both,7653.471935110307
+2023-09-01,Average Order Value,Home Appliances,Southeast,feeling,9541.789426328382
+2022-11-01,Revenue,Home Appliances,West,determine,8828.678091525891
+2022-11-14,Average Order Value,Electronics,Southwest,PM,532.5925167341716
+2022-11-13,Revenue,Electronics,Southeast,special,4328.783285978365
+2023-02-11,Average Order Value,Home Appliances,West,despite,671.3981649417809
+2023-02-24,Revenue,Clothing,Northeast,visit,3655.809359199768
+2023-02-09,Average Order Value,Clothing,Northeast,summer,8510.945048453219
+2023-01-14,Units Sold,Books,West,three,9888.744566788495
+2023-05-26,Revenue,Home Appliances,Northeast,tree,8415.003093624358
+2023-04-07,Average Order Value,Clothing,Midwest,difference,1437.9127666898135
+2023-06-18,Units Sold,Home Appliances,Midwest,even,2665.970551512996
+2023-10-10,Revenue,Toys,Northeast,include,3438.757043653637
+2022-11-12,Units Sold,Home Appliances,Midwest,leave,2162.255795179837
+2022-12-29,Average Order Value,Home Appliances,Midwest,couple,7224.755840034529
+2022-11-18,Revenue,Electronics,Midwest,money,9220.197385844147
+2023-08-26,Revenue,Toys,Southeast,require,2242.9778379061995
+2022-11-29,Average Order Value,Clothing,Northeast,easy,4961.703297171075
+2023-04-09,Units Sold,Home Appliances,Northeast,four,6772.507887576889
+2023-08-02,Revenue,Clothing,Southwest,right,5730.479794783078
+2023-05-08,Average Order Value,Toys,West,fund,1168.730522093471
+2023-02-18,Revenue,Toys,Southwest,learn,9617.18086902986
+2023-04-12,Average Order Value,Home Appliances,Midwest,experience,4666.105682133059
+2023-09-17,Revenue,Clothing,Southwest,success,3561.248898699361
+2022-11-02,Units Sold,Home Appliances,Midwest,partner,792.4091199971675
+2022-11-27,Units Sold,Clothing,Midwest,here,6103.538855218922
+2023-10-01,Revenue,Home Appliances,Southeast,owner,4164.552813195795
+2023-07-25,Revenue,Books,Southwest,read,7669.6874496971795
+2023-05-18,Average Order Value,Clothing,West,kid,492.97697998085465
+2022-11-10,Units Sold,Books,Midwest,throw,6977.929686446957
+2023-02-04,Units Sold,Clothing,Northeast,minute,9866.018482535977
+2023-08-31,Units Sold,Electronics,Southwest,lot,1063.0479631034864
+2022-11-29,Units Sold,Home Appliances,Southeast,thus,1008.8490609553065
+2023-08-23,Average Order Value,Electronics,West,enter,176.1569658761859
+2023-07-22,Units Sold,Books,Southeast,campaign,6041.098250755607
+2023-10-10,Units Sold,Electronics,Midwest,course,2469.452610312099
+2022-10-31,Average Order Value,Home Appliances,Southwest,event,1101.6815742680872
+2023-05-02,Units Sold,Books,Southwest,style,6933.50574361855
+2023-02-28,Units Sold,Toys,Southwest,discussion,8036.717985634463
+2023-05-11,Revenue,Toys,Midwest,dream,2123.7436734225125
+2023-03-25,Average Order Value,Home Appliances,Southwest,set,376.3882378586031
+2023-01-20,Average Order Value,Books,West,bank,2712.9359657536525
+2022-11-24,Average Order Value,Clothing,Northeast,seat,7241.579611155292
+2023-01-16,Units Sold,Books,Midwest,agree,2113.6249167000797
+2023-04-29,Revenue,Clothing,Northeast,probably,3393.462320297491
+2023-09-15,Revenue,Clothing,Northeast,mouth,7964.148637097055
+2023-06-12,Revenue,Home Appliances,West,factor,8500.211866694648
+2023-01-28,Units Sold,Books,Northeast,bed,5850.151584495722
+2023-05-29,Revenue,Clothing,Midwest,newspaper,584.8861299120117
+2023-05-06,Units Sold,Electronics,Southwest,forward,1534.9742847979041
+2023-10-24,Average Order Value,Electronics,Southwest,without,2256.4275748007813
+2023-09-01,Units Sold,Electronics,Northeast,heavy,1698.033621912561
+2022-12-30,Units Sold,Books,Northeast,much,4540.009594911941
+2023-06-17,Average Order Value,Toys,West,receive,5355.09665889944
+2023-04-28,Units Sold,Toys,West,with,1504.7473586453557
+2023-05-25,Average Order Value,Home Appliances,West,win,1243.4154528693039
+2023-08-30,Revenue,Clothing,Southwest,good,6890.193506468534
+2023-01-30,Average Order Value,Home Appliances,Midwest,deep,6555.6514747440015
+2023-10-13,Average Order Value,Books,Southeast,thought,783.6171501824183
+2023-05-26,Units Sold,Home Appliances,Southwest,born,2868.891669780516
+2023-08-04,Average Order Value,Home Appliances,Northeast,spring,6228.526241615672
+2023-09-03,Units Sold,Home Appliances,Southeast,actually,9060.93019515856
+2023-04-03,Average Order Value,Clothing,Southeast,listen,6343.541840822722
+2022-11-18,Revenue,Home Appliances,Midwest,especially,4177.7519401212685
+2023-01-03,Revenue,Electronics,Midwest,any,2441.727272070681
+2023-10-18,Revenue,Toys,Southwest,responsibility,4064.194621905118
+2023-05-03,Average Order Value,Home Appliances,Northeast,return,5919.112595320914
+2023-09-03,Units Sold,Home Appliances,Southwest,agreement,4714.701207454682
+2023-08-09,Average Order Value,Home Appliances,Northeast,need,4190.973793137984
+2022-11-25,Units Sold,Clothing,Southeast,east,5440.72324981511
+2023-07-30,Units Sold,Toys,Southeast,himself,3743.05635015925
+2023-08-12,Revenue,Books,Southeast,avoid,6018.581284883206
+2023-05-08,Revenue,Toys,Southwest,evidence,6197.03635925205
+2023-06-17,Revenue,Clothing,Northeast,article,2890.0224154466177
+2023-07-04,Units Sold,Books,West,increase,4842.506964356208
+2023-04-28,Average Order Value,Books,Northeast,these,8770.972355574004
+2023-02-20,Units Sold,Books,Midwest,politics,7280.661581083613
+2023-07-29,Average Order Value,Toys,West,performance,5832.037252361351
+2023-04-27,Revenue,Books,Southwest,possible,7158.596502472952
+2023-01-07,Average Order Value,Toys,Southwest,share,5702.050017974954
+2023-07-22,Units Sold,Clothing,Northeast,will,9584.519184854666
+2023-09-03,Average Order Value,Electronics,Southwest,out,4998.702277104547
+2023-09-29,Units Sold,Electronics,Southwest,always,2719.6274610259197
+2023-01-03,Revenue,Books,Northeast,only,1231.2738092375969
+2023-02-20,Units Sold,Books,Northeast,political,8322.315511186476
+2022-11-11,Revenue,Clothing,Northeast,talk,5198.348712292836
+2022-11-18,Units Sold,Electronics,Midwest,rule,6788.527875918476
+2023-02-19,Revenue,Toys,West,really,7453.339213844911
+2023-05-14,Units Sold,Electronics,Southwest,organization,8363.926334020935
+2023-04-05,Units Sold,Clothing,West,respond,7520.5740173201075
+2023-07-07,Units Sold,Clothing,Midwest,reveal,3309.9469827159874
+2023-07-07,Units Sold,Home Appliances,Southeast,investment,3682.362319260244
+2023-06-06,Average Order Value,Books,Midwest,season,2647.1491501676887
+2023-04-07,Units Sold,Toys,Midwest,Republican,7962.195153762834
+2023-05-09,Average Order Value,Books,Southwest,safe,362.3472750422186
+2023-05-11,Average Order Value,Clothing,Northeast,watch,3102.5790291247918
+2022-11-18,Units Sold,Books,Northeast,stage,1248.091468565585
+2023-07-12,Revenue,Electronics,Southwest,business,2111.9851195549995
+2023-09-07,Average Order Value,Books,West,truth,8461.718306929279
+2023-09-01,Average Order Value,Toys,Northeast,peace,724.897911116248
+2023-07-28,Units Sold,Toys,West,glass,6043.001404767436
+2022-11-13,Average Order Value,Clothing,West,picture,5061.995881699437
+2023-04-22,Revenue,Clothing,Northeast,work,4968.465275617557
+2023-09-04,Revenue,Books,Southeast,this,3060.704076210204
+2023-10-18,Average Order Value,Home Appliances,Southwest,edge,2499.257074096933
+2023-05-21,Average Order Value,Toys,Northeast,authority,9453.217400853062
+2023-05-28,Units Sold,Clothing,West,cost,8885.958953320844
+2022-12-02,Revenue,Toys,Northeast,attention,9023.37376245108
+2023-01-15,Average Order Value,Clothing,Southeast,war,670.7395728248864
+2023-04-02,Revenue,Home Appliances,West,level,3621.4031558729107
+2022-12-09,Average Order Value,Home Appliances,Southeast,common,8568.409220960522
+2023-10-14,Units Sold,Books,Southeast,red,8421.386453355934
+2023-10-05,Revenue,Toys,Midwest,too,2433.3276057072667
+2023-08-11,Average Order Value,Electronics,Southwest,daughter,9091.896166939368
+2023-10-20,Average Order Value,Toys,Southeast,prevent,6271.59856414229
+2023-02-17,Revenue,Clothing,Southeast,traditional,2345.990083560367
+2023-04-06,Average Order Value,Home Appliances,Northeast,professional,5577.36234553226
+2023-07-21,Units Sold,Toys,Southeast,system,4030.532552889137
+2023-06-23,Revenue,Clothing,Northeast,environmental,863.1449511786058
+2023-01-28,Revenue,Books,Northeast,would,362.88922090528854
+2022-12-04,Revenue,Toys,West,play,3680.3031443842024
+2023-04-30,Average Order Value,Books,Southwest,past,2312.9838309790935
+2023-08-06,Units Sold,Books,Southwest,instead,9909.107436545431
+2023-03-22,Average Order Value,Toys,Southwest,heart,9208.275201337021
+2023-02-25,Units Sold,Toys,Southeast,member,7881.480741436071
+2023-09-30,Average Order Value,Books,Northeast,wait,9007.37320429132
+2023-04-11,Average Order Value,Toys,Northeast,real,6786.751811992132
+2023-02-26,Revenue,Home Appliances,Midwest,college,8703.207553755192
+2023-06-14,Units Sold,Electronics,Northeast,pull,7476.834580827393
+2023-09-21,Units Sold,Clothing,Southeast,back,4310.9473545125065
+2022-11-26,Revenue,Toys,Northeast,everything,7707.732095954183
+2022-12-01,Units Sold,Home Appliances,Northeast,relationship,9633.686009706686
+2023-01-30,Revenue,Clothing,Northeast,should,384.45043627020743
+2022-11-23,Revenue,Toys,Midwest,such,275.376654870726
+2023-03-04,Units Sold,Books,Northeast,fact,4227.4325683312745
+2023-03-29,Revenue,Toys,Midwest,day,2520.9923066316096
+2023-03-07,Units Sold,Home Appliances,Midwest,base,8420.814666103177
+2022-11-21,Revenue,Clothing,West,television,8301.723383981776
+2023-10-22,Units Sold,Home Appliances,West,between,836.9150588875787
+2023-02-26,Revenue,Toys,Southeast,conference,1594.1161294603364
+2022-12-28,Revenue,Toys,Southeast,the,6947.4250997721765
+2023-03-31,Units Sold,Home Appliances,Northeast,anyone,8457.669165706135
+2023-05-27,Average Order Value,Toys,Southeast,small,9960.399860580763
+2023-09-09,Revenue,Home Appliances,Southeast,scene,6473.70941005425
+2023-10-26,Units Sold,Clothing,West,matter,179.65424488981586
+2023-06-17,Units Sold,Clothing,Northeast,drive,6555.749276389452
+2022-12-29,Revenue,Home Appliances,Midwest,discover,3383.7581702061575
+2023-04-25,Average Order Value,Clothing,West,fly,6106.829193767128
+2022-11-13,Revenue,Electronics,Southwest,country,306.947539100482
+2022-11-08,Average Order Value,Books,Midwest,camera,4571.270886259987
+2023-08-01,Revenue,Clothing,Midwest,surface,8551.648616938666
+2022-12-10,Average Order Value,Toys,Southwest,second,2710.2189155779943
+2023-09-20,Average Order Value,Electronics,Midwest,news,4015.2793876841674
+2023-09-01,Average Order Value,Books,West,though,1688.325111250807
+2023-02-05,Average Order Value,Toys,Southeast,century,4637.837542321017
+2022-12-20,Revenue,Clothing,Southeast,cup,8635.955369629126
+2022-11-27,Average Order Value,Toys,Northeast,those,7732.465094161843
+2023-10-19,Average Order Value,Electronics,Southeast,accept,3149.348603785982
+2023-01-27,Revenue,Books,Southeast,word,6636.989632062955
+2023-10-16,Revenue,Toys,West,can,6668.8673076901005
+2023-01-29,Units Sold,Home Appliances,Northeast,something,358.29765575642944
+2023-08-19,Units Sold,Home Appliances,Northeast,call,134.30877088679352
+2023-01-29,Units Sold,Toys,Southeast,manager,320.291104484686
+2023-05-22,Average Order Value,Home Appliances,West,effect,5948.841120519207
+2023-08-21,Revenue,Books,Midwest,memory,7942.68980558739
+2023-09-16,Units Sold,Home Appliances,West,focus,1009.1847544094683
+2023-07-31,Units Sold,Clothing,Southwest,teach,5693.800820686594
+2023-09-12,Units Sold,Clothing,Southeast,strategy,6006.825494488025
+2022-12-17,Average Order Value,Clothing,Southeast,before,6614.391300631567
+2023-01-02,Units Sold,Books,Southeast,commercial,1207.6205697359314
+2022-11-26,Revenue,Books,Southeast,idea,1938.5338589823682
+2023-09-23,Revenue,Electronics,West,make,241.88391015342935
+2023-05-13,Units Sold,Electronics,Northeast,he,8951.904025972006
+2023-02-26,Average Order Value,Home Appliances,Southwest,start,9157.641405997956
+2023-10-05,Revenue,Home Appliances,Southeast,together,2558.7980107762633
+2023-01-04,Revenue,Books,Midwest,modern,4880.399327802388
+2023-01-14,Average Order Value,Clothing,Midwest,record,6943.125325091574
+2023-09-02,Units Sold,Books,Southeast,friend,8776.237434698905
+2023-06-21,Average Order Value,Books,Southwest,view,4192.885557248472
+2023-03-04,Revenue,Toys,Northeast,quality,7875.504530576311
+2023-03-25,Average Order Value,Electronics,Southeast,recent,6824.040594218207
+2023-07-24,Units Sold,Toys,Southeast,number,8096.396400490369
+2023-02-03,Revenue,Toys,Southeast,nice,2992.1121917885107
+2023-06-15,Revenue,Books,Southwest,trial,2053.0762833335098
+2023-02-25,Units Sold,Clothing,Southeast,sign,5187.543485041238
+2023-07-06,Average Order Value,Home Appliances,Southwest,against,9006.814536265147
+2023-08-18,Units Sold,Toys,Southeast,address,6304.413984318781
+2023-05-08,Average Order Value,Clothing,West,note,2662.6233744172055
+2023-05-07,Revenue,Home Appliances,Southwest,that,2003.9590888822252
+2023-01-25,Revenue,Books,Southeast,space,7262.805997342533
+2023-10-17,Average Order Value,Home Appliances,Northeast,fall,6602.401939941496
+2023-06-10,Revenue,Toys,West,response,8423.756622226894
+2022-12-25,Average Order Value,Toys,West,dog,2171.1894381254583
+2022-12-02,Revenue,Books,Midwest,go,3721.790503195804
+2023-04-08,Average Order Value,Toys,Southeast,score,6470.607166082049
+2023-02-09,Units Sold,Books,West,radio,3754.8698553699646
+2022-11-01,Average Order Value,Home Appliances,West,establish,5931.271460736124
+2023-04-10,Revenue,Clothing,Southwest,continue,5688.172689020245
+2022-12-25,Average Order Value,Clothing,West,explain,2406.8805221404614
+2023-08-01,Units Sold,Toys,Midwest,usually,2611.0899562608415
+2022-11-30,Revenue,Toys,Northeast,doctor,7990.868738317246
+2023-06-12,Revenue,Books,Northeast,assume,3330.9379444986616
+2023-07-16,Units Sold,Electronics,West,west,2590.049242932783
+2022-11-11,Average Order Value,Clothing,West,order,3409.1429163953508
+2023-09-13,Average Order Value,Home Appliances,Southeast,room,2412.1952513661313
+2023-03-01,Average Order Value,Home Appliances,Midwest,involve,904.9024004591766
+2023-08-28,Units Sold,Home Appliances,Midwest,next,7003.8858714059115
+2023-04-21,Average Order Value,Books,Northeast,letter,1636.3512413696506
+2023-09-10,Revenue,Electronics,Southeast,wear,3046.1775568767794
+2022-11-13,Revenue,Books,Midwest,its,6139.950514326603
+2023-06-20,Units Sold,Electronics,Southwest,lay,4385.761685401268
+2023-03-18,Revenue,Toys,Southeast,debate,9114.464691518007
+2023-10-23,Revenue,Home Appliances,Southeast,then,4891.252875075328
+2023-08-14,Units Sold,Clothing,Southwest,popular,2454.8747811105263
+2023-05-08,Revenue,Home Appliances,Midwest,region,9665.875745985035
+2023-08-16,Units Sold,Clothing,Southwest,coach,5570.621222848194
+2023-06-08,Revenue,Home Appliances,West,black,3774.2076457684043
+2022-12-24,Average Order Value,Clothing,West,blood,9508.849177975319
+2023-03-04,Average Order Value,Books,West,artist,8562.9673555799
+2023-08-20,Units Sold,Home Appliances,Southwest,high,609.881314617766
+2023-01-20,Units Sold,Home Appliances,Southeast,fire,1694.1287921611438
+2023-03-25,Average Order Value,Books,Southwest,where,2122.950330523177
+2023-09-05,Units Sold,Home Appliances,West,theory,2307.38726175021
+2023-01-27,Units Sold,Home Appliances,Southeast,machine,8832.49230167999
+2023-05-30,Units Sold,Home Appliances,Northeast,consider,8175.3832007951205
+2023-06-04,Units Sold,Books,Northeast,mission,1689.0971272203258
+2022-11-01,Revenue,Home Appliances,West,arrive,35.14321749018585
+2023-03-06,Average Order Value,Electronics,Northeast,happy,8957.84741090593
+2023-01-31,Revenue,Electronics,Southeast,well,3907.5885143339774
+2023-01-11,Revenue,Toys,Southeast,thing,3061.4554975162564
+2022-11-06,Revenue,Home Appliances,West,cut,5739.151930998698
+2023-07-10,Average Order Value,Home Appliances,West,position,2356.6009412282474
+2023-10-24,Average Order Value,Home Appliances,Southeast,above,1471.0608527689217
+2022-10-28,Units Sold,Toys,Midwest,skin,1112.5453551924895
+2023-06-17,Units Sold,Books,West,trouble,2818.63287200596
+2023-06-14,Units Sold,Electronics,West,attorney,7261.537949990005
+2023-08-27,Average Order Value,Toys,Northeast,on,7387.5445870445765
+2023-06-12,Units Sold,Home Appliances,Midwest,financial,719.5732247637752
+2023-04-25,Revenue,Books,Midwest,apply,4924.784020841782
+2023-03-04,Average Order Value,Books,West,section,6720.542355009267
+2023-01-20,Units Sold,Toys,Northeast,human,3609.459464948479
+2023-10-25,Units Sold,Electronics,West,place,3238.9726332162604
+2023-03-07,Units Sold,Electronics,Southwest,south,4347.029258997131
+2023-05-21,Units Sold,Electronics,Southwest,state,2370.670647051328
+2023-06-07,Average Order Value,Clothing,Southwest,left,8284.959802487445
+2022-12-06,Units Sold,Electronics,West,exactly,9188.051211073811
+2023-01-13,Units Sold,Toys,Northeast,simply,8864.669616721902
+2023-07-07,Average Order Value,Clothing,Northeast,drug,4555.815192990625
+2023-02-12,Units Sold,Clothing,Southwest,water,9696.854228614151
+2023-07-20,Units Sold,Toys,Midwest,lead,9540.358757274304
+2022-11-25,Average Order Value,Home Appliances,Southwest,maintain,9592.708764099732
+2023-07-23,Revenue,Electronics,Northeast,often,9227.879230713299
+2023-06-03,Average Order Value,Clothing,Southeast,project,2680.5668853640736
+2023-08-06,Revenue,Home Appliances,Southeast,natural,9241.58031749263
+2023-02-25,Average Order Value,Clothing,Midwest,describe,6363.659737473952
+2023-08-10,Units Sold,Books,Midwest,pattern,7651.106765428061
+2022-11-11,Units Sold,Home Appliances,Southeast,since,9182.638369539523
+2023-03-12,Revenue,Books,Southwest,loss,8587.723515789521
+2022-11-09,Average Order Value,Books,West,be,9591.464510596565
+2023-10-20,Units Sold,Books,Midwest,she,5585.448444665462
+2023-06-26,Units Sold,Toys,Southwest,education,1029.2454695046347
+2023-10-02,Units Sold,Electronics,Southeast,technology,5410.785879804887
+2023-08-11,Revenue,Books,Southeast,able,8607.79177898042
+2023-06-07,Revenue,Toys,Midwest,quite,4306.289133320493
+2023-03-11,Average Order Value,Electronics,Southeast,front,8014.686979359376
+2022-11-04,Units Sold,Toys,Northeast,community,415.4058414144838
+2023-07-28,Units Sold,Clothing,Northeast,within,9300.26505106896
+2023-03-23,Units Sold,Clothing,West,yet,1252.031299647846
+2023-06-15,Revenue,Home Appliances,West,month,1818.039241353855
+2023-01-15,Average Order Value,Books,West,research,7302.51598329139
+2022-10-28,Units Sold,Electronics,Southwest,hold,9285.660932996903
+2022-11-08,Units Sold,Toys,Midwest,bar,7042.5902938556765
+2023-08-28,Units Sold,Electronics,Southwest,huge,4113.446516432757
+2023-01-10,Units Sold,Clothing,Southwest,admit,9649.589873720557
+2023-04-02,Units Sold,Books,Southwest,property,4751.625142181311
+2023-03-20,Revenue,Books,Southeast,writer,9597.33366737718
+2023-01-25,Units Sold,Toys,West,reflect,4045.8730169486485
+2023-04-07,Average Order Value,Clothing,West,else,9871.423784676519
+2023-09-25,Units Sold,Books,Midwest,task,587.7265635911015
+2023-06-03,Units Sold,Toys,Northeast,health,7152.321887679733
+2023-07-06,Units Sold,Home Appliances,Northeast,help,3830.413381735534
+2023-04-16,Revenue,Toys,Northeast,author,4062.926213290898
+2023-08-26,Revenue,Toys,West,like,2151.538062990759
+2022-11-01,Units Sold,Toys,Midwest,opportunity,2918.10042458354
+2023-06-24,Average Order Value,Electronics,Southeast,enjoy,7095.97788374166
+2023-09-06,Units Sold,Books,Northeast,operation,5985.223010375728
+2022-12-25,Revenue,Electronics,Midwest,some,7988.213888062701
+2022-12-24,Revenue,Home Appliances,Southwest,hundred,2344.994122291698
+2023-03-03,Revenue,Toys,Southwest,movie,6018.056648936546
+2023-07-01,Units Sold,Books,Southwest,interesting,7831.101273947775
+2023-01-20,Revenue,Electronics,Southwest,write,309.2570037775591
+2023-10-12,Average Order Value,Electronics,Southeast,name,6149.123570669289
+2023-01-11,Revenue,Books,West,total,1418.1393297725679
+2023-06-15,Units Sold,Books,Midwest,citizen,1050.6645211001423
+2022-11-11,Units Sold,Toys,Midwest,worker,7833.034379134958
+2022-11-10,Average Order Value,Clothing,Southeast,fish,3862.580477481838
+2023-04-14,Average Order Value,Books,Southwest,almost,1110.596598478425
+2022-12-01,Units Sold,Toys,Midwest,ready,9835.298482592216
+2023-07-04,Average Order Value,Electronics,West,chance,8652.809219113316
+2023-05-03,Revenue,Books,West,meeting,4644.437628686989
+2022-11-24,Units Sold,Home Appliances,West,class,1313.739059458018
+2023-07-12,Average Order Value,Clothing,Southeast,current,639.7189373548869
+2022-10-29,Revenue,Clothing,Southwest,budget,111.96177538309034
+2023-07-25,Revenue,Books,Midwest,road,2178.5898242669637
+2023-10-27,Units Sold,Clothing,Northeast,support,5420.16666916697
+2023-01-31,Average Order Value,Toys,West,mind,520.041090818092
+2022-11-28,Average Order Value,Clothing,Southeast,hand,7977.229525723126
+2023-02-06,Units Sold,Electronics,West,question,6297.190029300189
+2023-03-06,Units Sold,Toys,Southeast,perhaps,4313.088419542033
+2023-01-02,Units Sold,Home Appliances,Northeast,near,6578.47742911257
+2023-01-05,Average Order Value,Clothing,Southwest,long,5464.4545613375585
+2023-01-30,Revenue,Books,Southeast,staff,4608.504458276961
+2023-07-23,Revenue,Clothing,Northeast,example,5406.188531741318
+2023-06-21,Revenue,Electronics,Midwest,main,2472.300485192616
+2023-08-31,Units Sold,Home Appliances,Southeast,page,9868.807087247626
+2023-10-10,Revenue,Books,Northeast,force,1302.1740982658278
+2023-03-13,Average Order Value,Clothing,Southwest,indicate,9640.94551453478
+2023-04-07,Average Order Value,Electronics,West,agent,3788.60516382022
+2023-06-27,Units Sold,Clothing,Southwest,charge,4282.980444568016
+2023-01-02,Average Order Value,Clothing,Southeast,face,1664.753112669937
+2023-08-12,Revenue,Home Appliances,Southwest,street,771.3321562173504
+2023-08-25,Units Sold,Electronics,Southwest,institution,9914.905687650527
+2023-06-20,Revenue,Clothing,Midwest,president,3904.183031859383
+2022-11-01,Revenue,Clothing,Southwest,appear,2402.8932047028907
+2023-05-15,Average Order Value,Toys,Midwest,various,9536.817909360783
+2023-03-20,Units Sold,Toys,Midwest,challenge,5924.888411622274
+2022-12-29,Revenue,Home Appliances,Southwest,foreign,1838.7659203777946
+2023-02-24,Units Sold,Clothing,Midwest,allow,2949.083951088269
+2023-09-06,Revenue,Clothing,Southeast,feel,4074.9228596667595
+2023-04-16,Units Sold,Toys,West,than,8327.363434076233
+2022-12-08,Units Sold,Clothing,Southwest,middle,4544.65056546368
+2023-09-16,Average Order Value,Electronics,Midwest,a,7685.35969595329
+2023-03-29,Average Order Value,Clothing,Midwest,door,9319.428842679145
+2023-07-22,Average Order Value,Home Appliances,Southeast,north,8475.196468020562
+2023-07-20,Units Sold,Clothing,Midwest,sister,8456.273828365876
+2023-10-09,Units Sold,Clothing,Midwest,boy,6007.485329584617
+2023-07-21,Units Sold,Books,Midwest,eye,893.0074612506507
+2023-09-12,Units Sold,Home Appliances,West,analysis,173.90485952790914
+2022-12-16,Units Sold,Books,Northeast,clear,8706.914420012426
+2023-08-11,Average Order Value,Clothing,Northeast,there,6552.930953664968
+2023-08-30,Average Order Value,Books,Southeast,box,7541.59813693341
+2023-04-18,Revenue,Toys,Midwest,election,5810.120382047046
+2022-10-28,Revenue,Books,Southeast,computer,6314.28444644926
+2023-04-25,Revenue,Home Appliances,Southwest,their,742.2886387955938
+2022-11-18,Revenue,Home Appliances,Southwest,hotel,2144.382436253185
+2022-12-22,Units Sold,Toys,Southwest,soon,8086.780726002653
+2022-12-15,Average Order Value,Electronics,Southeast,different,248.72986212644386
+2023-09-02,Average Order Value,Books,Midwest,person,2413.28465215962
+2023-06-09,Average Order Value,Home Appliances,West,every,866.7293451074742
+2023-04-25,Revenue,Books,West,provide,1376.5252624761986
+2023-03-28,Revenue,Clothing,West,population,2830.480166103852
+2023-09-07,Revenue,Electronics,Southwest,art,5066.307641935398
+2023-10-03,Revenue,Books,Northeast,another,6010.185832238083
+2022-12-14,Units Sold,Electronics,Southwest,tend,8416.343764624322
+2022-11-26,Average Order Value,Clothing,West,federal,3216.216115141333
+2023-04-28,Units Sold,Toys,West,contain,3534.056404769181
+2022-11-21,Units Sold,Clothing,Northeast,pressure,845.0980677795816
+2022-12-10,Revenue,Clothing,West,father,8435.461666714738
+2022-11-30,Average Order Value,Home Appliances,Southeast,could,9027.116347877305
+2023-05-20,Units Sold,Clothing,Midwest,up,5815.834822279366
+2022-12-31,Average Order Value,Toys,Southeast,five,5153.530924580452
+2023-10-06,Average Order Value,Toys,Southeast,film,8127.630523541229
+2023-09-01,Revenue,Home Appliances,Midwest,baby,3645.9019587843222
+2023-03-13,Revenue,Toys,Southeast,account,9048.357487249674
+2023-05-03,Average Order Value,Clothing,Northeast,new,9741.448976198024
+2023-07-04,Average Order Value,Clothing,Southeast,capital,108.04066111857088
+2023-07-16,Revenue,Toys,Southeast,believe,3532.0351594700546
+2023-01-12,Revenue,Home Appliances,Southwest,buy,4484.746034415869
+2023-03-30,Units Sold,Toys,Midwest,begin,4337.113109142625
+2023-10-02,Revenue,Electronics,West,whether,8119.986351840017
+2023-10-20,Units Sold,Home Appliances,Northeast,serve,5850.55811217756
+2023-06-02,Average Order Value,Home Appliances,Southeast,resource,785.1781277071094
+2022-11-05,Revenue,Toys,West,office,8570.82396046235
+2023-07-15,Revenue,Home Appliances,Midwest,late,8830.564102479833
+2022-12-04,Average Order Value,Home Appliances,West,whose,5219.283641508104
+2023-08-13,Units Sold,Home Appliances,Northeast,group,3081.429157799711
+2023-08-21,Average Order Value,Electronics,Midwest,more,9084.118814926644
+2023-10-26,Average Order Value,Electronics,Midwest,until,5130.543967033816
+2023-03-05,Average Order Value,Clothing,Northeast,seven,9730.074775364512
+2023-09-25,Revenue,Clothing,Northeast,nor,4990.645479464657
+2023-03-10,Average Order Value,Toys,Southwest,defense,7350.92233273555
+2023-09-26,Revenue,Electronics,Northeast,professor,8900.887122574712
+2023-07-18,Revenue,Home Appliances,Midwest,close,9482.109626891008
+2023-04-17,Revenue,Books,Southwest,already,1793.4633653046633
+2022-11-03,Revenue,Clothing,Southeast,miss,8503.648635549333
+2023-06-16,Units Sold,Clothing,Southeast,control,6646.436496714142
+2023-07-11,Units Sold,Books,Northeast,maybe,6345.706357763587
+2023-06-08,Revenue,Clothing,West,pick,3522.7504044028187
+2023-10-08,Revenue,Books,Midwest,identify,9271.97941706096
+2023-09-23,Revenue,Home Appliances,Midwest,smile,4732.842862720267
+2022-11-30,Units Sold,Toys,Southeast,may,7893.884427156593
+2022-12-04,Revenue,Home Appliances,Northeast,someone,4718.765132074884
+2023-04-04,Revenue,Books,Southeast,least,6648.799323277666
+2023-04-21,Revenue,Electronics,Southeast,reason,7744.778930212682
+2023-08-13,Average Order Value,Clothing,Northeast,part,4747.373788832087
+2023-10-24,Average Order Value,Electronics,Southeast,situation,7008.026480525943
+2023-09-18,Units Sold,Books,Southeast,amount,3205.9826980281
+2023-07-08,Average Order Value,Toys,West,expect,4462.03912953796
+2023-01-31,Revenue,Clothing,Southeast,significant,1161.8766585027872
+2023-10-10,Revenue,Electronics,Southwest,product,6395.991281569311
+2023-05-14,Average Order Value,Clothing,Southeast,security,1057.8304791050614
+2023-08-03,Revenue,Clothing,West,free,7015.63893541298
+2023-10-04,Average Order Value,Books,Northeast,personal,7824.265067288943
+2023-05-12,Revenue,Electronics,Midwest,lawyer,4963.082189757219
+2022-12-16,Average Order Value,Electronics,West,offer,1401.2793194575106
+2023-07-27,Revenue,Electronics,Northeast,during,5117.581995293612
+2023-05-21,Revenue,Books,Southwest,run,7918.895659602613
+2023-07-15,Revenue,Home Appliances,Midwest,open,3766.7188713154987
+2023-03-12,Units Sold,Books,Northeast,serious,3684.448039339941
+2023-10-13,Revenue,Books,Southwest,better,3851.935886143979
+2023-06-04,Average Order Value,Clothing,Southeast,gun,2108.993240115037
+2023-01-06,Units Sold,Toys,Midwest,meet,6124.08838159954
+2023-09-11,Units Sold,Toys,Midwest,young,9368.916068876639
+2022-12-08,Units Sold,Toys,Midwest,window,1275.9748091625493
+2023-10-23,Units Sold,Electronics,West,condition,9335.055805119437
+2023-04-04,Revenue,Electronics,Southwest,represent,8784.40215701027
+2023-09-10,Average Order Value,Toys,Northeast,look,406.15669306978504
+2023-02-20,Revenue,Electronics,Northeast,from,6131.256152215926
+2023-06-18,Average Order Value,Books,West,around,2772.1103583583304
+2023-04-23,Units Sold,Home Appliances,Southeast,seem,4381.377775229276
+2023-01-24,Units Sold,Toys,Midwest,few,7277.606779917169
+2023-04-18,Revenue,Home Appliances,Southwest,statement,2855.2595733096073
+2023-04-19,Average Order Value,Clothing,West,brother,5229.396334217948
+2023-07-02,Average Order Value,Books,Southwest,majority,1708.4320999471727
+2022-10-28,Average Order Value,Clothing,Northeast,same,6702.56967140376
+2023-04-24,Average Order Value,Toys,Midwest,less,4844.534715605052
+2023-04-18,Revenue,Toys,Midwest,fast,3656.311431125772
+2023-01-12,Units Sold,Home Appliances,Northeast,guess,6440.572911702383
+2023-04-24,Revenue,Electronics,Northeast,suggest,8190.460637246673
+2023-03-07,Units Sold,Clothing,Midwest,answer,1241.5774406186692
+2023-04-29,Average Order Value,Home Appliances,Northeast,man,2085.8467604121306
+2023-08-04,Revenue,Clothing,Midwest,choose,524.4401548481196
+2023-08-16,Revenue,Home Appliances,West,true,4174.945913755261
+2022-11-06,Average Order Value,Books,Southeast,wish,3437.681076171475
+2023-09-08,Revenue,Books,Midwest,marriage,8659.381041688954
+2023-02-16,Average Order Value,Electronics,Midwest,body,5271.739125555622
+2023-04-09,Revenue,Electronics,Southeast,ok,651.5089399689417
+2023-06-24,Units Sold,Home Appliances,West,great,2816.088120934152
+2023-02-18,Revenue,Clothing,Northeast,court,892.7986021229071
+2023-06-21,Average Order Value,Clothing,Southwest,price,456.69337837794853
+2023-01-21,Units Sold,Clothing,Midwest,interest,9100.100556799343
+2023-08-17,Revenue,Home Appliances,Southeast,hard,8621.588619442104
+2023-10-15,Units Sold,Electronics,Southeast,service,4265.150846780747
+2023-03-30,Units Sold,Toys,Northeast,just,1306.2081530477778
+2023-01-13,Revenue,Home Appliances,Southwest,must,3423.5782098277873
+2023-01-25,Units Sold,Clothing,Northeast,draw,6158.705654778773
+2022-12-24,Average Order Value,Toys,West,plant,1730.510909430761
+2023-04-01,Average Order Value,Toys,West,cover,5070.231926275765
+2023-07-08,Average Order Value,Clothing,Midwest,local,1387.3702371098566
+2023-03-06,Revenue,Books,Southwest,food,2343.1013028690318
+2023-07-10,Units Sold,Electronics,Northeast,wind,5792.207674826557
+2023-07-07,Units Sold,Clothing,Midwest,military,3087.6420338404555
+2022-11-18,Average Order Value,Books,Midwest,best,7381.145496468214
+2023-01-07,Revenue,Books,Northeast,save,5793.683427866335
+2023-06-20,Revenue,Clothing,Southwest,turn,9075.384951972177
+2023-10-18,Revenue,Home Appliances,Northeast,enough,2243.841725553413
+2023-09-15,Revenue,Clothing,Southwest,reduce,3118.76300469884
+2023-05-16,Average Order Value,Electronics,Southwest,down,85.2635528050375
+2023-05-16,Average Order Value,Electronics,Northeast,show,7520.520793038088
+2023-06-12,Units Sold,Electronics,Northeast,so,7448.457076662661
+2023-10-05,Average Order Value,Clothing,Northeast,phone,5466.203633919736
+2022-11-10,Units Sold,Toys,Southwest,year,6364.984482586985
+2022-12-09,Revenue,Home Appliances,Midwest,six,7565.430657748151
+2023-09-19,Units Sold,Books,Southwest,simple,8958.923290426706
+2023-09-29,Revenue,Books,Southeast,beyond,3715.770327188033
+2023-04-27,Units Sold,Electronics,Midwest,management,3693.1189108263
+2022-12-28,Average Order Value,Electronics,Midwest,because,3868.0939680019565
+2023-10-02,Revenue,Home Appliances,Midwest,approach,2339.2800735071132
+2023-01-22,Average Order Value,Toys,Midwest,kind,3304.917601413542

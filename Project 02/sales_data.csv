@@ -1,0 +1,969 @@
+Date,Product Category,Region,Product Name,Value
+14-08-2023,Clothing,Northeast,now,1313.498586
+08-08-2023,Clothing,West,around,2877.830443
+24-05-2023,Clothing,Southwest,quality,5094.694879
+05-09-2023,Books,Southeast,a,5773.480613
+06-06-2023,Books,Southwest,star,5895.950969
+23-05-2023,Electronics,Northeast,capital,453.3316539
+22-11-2022,Electronics,West,vote,2094.644575
+21-01-2023,Home Appliances,West,beautiful,8370.229905
+30-03-2023,Electronics,Southwest,have,4777.708156
+18-07-2023,Clothing,West,teacher,3235.12668
+13-12-2022,Home Appliances,Northeast,court,7522.441249
+14-02-2023,Toys,Northeast,treat,930.1847799
+04-08-2023,Toys,Southwest,decade,7389.379474
+17-09-2023,Clothing,Northeast,which,8081.517463
+06-02-2023,Books,Southwest,continue,2434.664011
+23-04-2023,Books,Southwest,too,2367.254786
+03-11-2022,Home Appliances,Southeast,it,3995.576393
+14-02-2023,Electronics,Midwest,she,1881.115515
+28-06-2023,Books,Northeast,table,1526.01904
+31-01-2023,Home Appliances,Northeast,if,1044.109563
+27-05-2023,Books,Southeast,seven,1620.332311
+26-07-2023,Home Appliances,Northeast,right,9703.408229
+09-08-2023,Clothing,Southeast,wrong,2982.025919
+18-02-2023,Electronics,West,else,522.7102771
+04-07-2023,Books,Southeast,drive,1643.594866
+04-07-2023,Home Appliances,West,firm,7805.43421
+17-05-2023,Home Appliances,Northeast,notice,5856.517308
+18-03-2023,Books,Northeast,quite,5935.745516
+28-11-2022,Books,West,industry,4340.925817
+08-04-2023,Electronics,Midwest,song,4816.995291
+19-09-2023,Home Appliances,Southeast,attention,2068.620093
+12-09-2023,Books,Southwest,near,5501.982793
+29-01-2023,Electronics,Midwest,field,8994.885647
+23-12-2022,Toys,West,measure,5660.50052
+20-05-2023,Clothing,Midwest,machine,7358.411337
+20-03-2023,Clothing,Midwest,either,5857.613014
+23-02-2023,Books,Southeast,maybe,5496.192339
+29-03-2023,Toys,Southeast,community,2839.582533
+18-12-2022,Electronics,West,side,1520.064153
+21-10-2022,Clothing,Northeast,child,5550.703099
+22-02-2023,Home Appliances,Southeast,this,3740.18603
+03-09-2023,Books,Southwest,bring,8853.75089
+12-11-2022,Books,Southwest,reduce,3614.409998
+08-02-2023,Toys,West,page,6775.479045
+15-04-2023,Home Appliances,Midwest,walk,6152.008889
+24-01-2023,Clothing,Midwest,police,9682.480425
+23-01-2023,Electronics,Southeast,class,9692.238607
+25-09-2023,Electronics,Midwest,view,3285.316135
+20-02-2023,Clothing,Midwest,not,8092.543324
+19-10-2022,Toys,West,social,6516.193975
+13-06-2023,Books,West,inside,3717.395761
+04-02-2023,Home Appliances,Southeast,world,2525.806405
+14-10-2023,Electronics,Northeast,population,812.4426949
+08-09-2023,Clothing,Northeast,citizen,9434.96618
+05-04-2023,Books,Northeast,majority,4192.360961
+11-04-2023,Toys,Southeast,skill,4305.510028
+22-11-2022,Clothing,West,place,7813.087443
+08-06-2023,Home Appliances,Southwest,as,231.1417215
+23-04-2023,Clothing,Northeast,order,369.3680302
+04-04-2023,Electronics,Midwest,media,486.0051086
+04-03-2023,Books,Southwest,her,3496.139367
+14-03-2023,Electronics,Midwest,meet,9920.788962
+03-07-2023,Clothing,Northeast,institution,7876.676541
+02-10-2023,Toys,Southeast,any,3094.496307
+07-10-2023,Books,Northeast,tree,9178.036919
+21-12-2022,Electronics,West,recognize,6430.591061
+02-04-2023,Toys,Southeast,sign,5916.004479
+01-10-2023,Toys,Northeast,suffer,9723.767734
+04-11-2022,Books,Southwest,agency,256.8864753
+08-02-2023,Home Appliances,Northeast,camera,5870.957478
+15-02-2023,Toys,Northeast,shoulder,1105.824973
+05-05-2023,Electronics,Southwest,leader,5025.231126
+04-08-2023,Home Appliances,Northeast,forward,146.9681546
+26-04-2023,Toys,Northeast,each,6918.182153
+10-07-2023,Toys,Southwest,activity,3252.849266
+07-05-2023,Toys,West,by,7046.727901
+06-04-2023,Electronics,Southeast,number,7489.450835
+15-02-2023,Home Appliances,Southeast,charge,1638.896921
+13-03-2023,Books,Southeast,draw,4021.023626
+30-10-2022,Toys,Northeast,husband,8959.0954
+04-10-2023,Toys,Southeast,scene,5756.390978
+03-04-2023,Books,Southeast,hundred,7078.808976
+18-05-2023,Home Appliances,West,determine,709.4790894
+27-09-2023,Books,Southeast,yeah,7092.997155
+13-10-2023,Books,West,off,4009.640131
+15-09-2023,Clothing,Southeast,only,699.8517623
+02-01-2023,Electronics,Southwest,hot,2168.202032
+26-05-2023,Books,West,language,556.9633553
+06-12-2022,Home Appliances,Midwest,friend,926.7828046
+04-10-2023,Toys,Southwest,reason,1282.808426
+14-01-2023,Electronics,West,challenge,6881.137406
+23-12-2022,Books,Southwest,low,2138.498737
+24-05-2023,Electronics,West,somebody,3875.218011
+14-08-2023,Toys,Southeast,animal,7004.405204
+04-02-2023,Books,Midwest,note,9704.145482
+18-01-2023,Toys,Southwest,ball,788.2096915
+25-03-2023,Books,Southwest,certainly,1844.880768
+14-10-2023,Home Appliances,Southwest,approach,8337.279553
+31-07-2023,Books,West,relate,955.3242
+18-08-2023,Books,Southwest,beat,8825.975322
+19-10-2022,Books,Southeast,may,7956.20051
+22-04-2023,Clothing,Southwest,customer,1070.39414
+20-02-2023,Home Appliances,Southwest,write,5941.636509
+17-05-2023,Books,Midwest,guess,4756.877389
+14-06-2023,Books,Midwest,letter,9573.923106
+10-06-2023,Home Appliances,West,own,7765.166107
+06-07-2023,Toys,Southeast,though,8802.22701
+03-05-2023,Toys,Northeast,free,287.4388525
+01-04-2023,Toys,Southwest,there,4318.853291
+14-11-2022,Toys,Southwest,large,5281.004401
+11-07-2023,Toys,Northeast,boy,1971.126794
+04-05-2023,Clothing,Southwest,different,4994.843985
+26-11-2022,Electronics,West,represent,5065.258816
+22-10-2022,Toys,Southwest,change,6230.437368
+28-06-2023,Toys,Southeast,worry,9487.192377
+20-07-2023,Clothing,Southeast,subject,9334.203561
+16-01-2023,Home Appliances,Southeast,option,931.32142
+12-04-2023,Home Appliances,Midwest,baby,4802.817459
+14-05-2023,Clothing,Northeast,born,7040.941748
+20-08-2023,Home Appliances,West,trade,2830.715295
+06-06-2023,Toys,Southwest,claim,9288.093826
+26-10-2022,Toys,Midwest,since,2315.949111
+17-11-2022,Clothing,West,type,327.9955193
+05-12-2022,Electronics,Southwest,interest,7029.079077
+16-01-2023,Electronics,Northeast,law,7141.799087
+30-05-2023,Electronics,Southeast,real,7269.969257
+14-01-2023,Home Appliances,West,production,3662.790377
+11-02-2023,Electronics,West,work,699.5220685
+11-10-2023,Books,Southeast,civil,794.6142465
+22-11-2022,Electronics,Southeast,prepare,9932.938757
+08-07-2023,Clothing,Southeast,management,9212.920994
+20-01-2023,Home Appliances,Southwest,house,7761.929006
+20-05-2023,Home Appliances,Southeast,to,4449.832599
+20-12-2022,Home Appliances,Southeast,art,7079.111296
+10-12-2022,Electronics,Northeast,room,9919.433668
+21-10-2022,Toys,Northeast,audience,4314.786868
+22-03-2023,Home Appliances,Northeast,finally,2371.767859
+06-03-2023,Home Appliances,Southeast,difficult,3979.84846
+11-02-2023,Electronics,West,its,4857.959583
+31-03-2023,Books,Southwest,entire,9638.128803
+24-02-2023,Electronics,Midwest,line,328.167458
+07-01-2023,Clothing,Northeast,raise,1136.745303
+22-07-2023,Books,Midwest,behavior,6020.317526
+05-11-2022,Electronics,Southwest,score,8313.985655
+18-07-2023,Books,Southwest,lay,4100.610641
+12-03-2023,Toys,Northeast,half,2396.280877
+30-10-2022,Home Appliances,Northeast,reveal,249.4711745
+30-08-2023,Clothing,Midwest,doctor,3679.494281
+01-05-2023,Electronics,Southeast,recently,624.6107882
+19-06-2023,Toys,West,price,419.4844663
+25-02-2023,Electronics,Midwest,speak,6817.85136
+22-11-2022,Toys,Southeast,major,1210.446917
+29-03-2023,Electronics,West,process,5914.615072
+02-05-2023,Toys,West,their,5705.400456
+12-10-2023,Electronics,Midwest,color,3272.224782
+14-10-2023,Clothing,Midwest,necessary,9190.328247
+03-03-2023,Home Appliances,Midwest,still,2003.623951
+18-05-2023,Electronics,Southeast,pressure,2030.662942
+23-02-2023,Clothing,Midwest,include,7281.334321
+27-07-2023,Clothing,Southwest,partner,2577.208528
+21-06-2023,Books,Midwest,our,4627.668599
+04-01-2023,Home Appliances,Midwest,evidence,7044.262378
+09-07-2023,Home Appliances,Midwest,foreign,5041.59455
+09-04-2023,Toys,Southeast,various,6521.658708
+24-06-2023,Electronics,Southeast,eight,286.3747382
+29-12-2022,Home Appliances,Southeast,contain,1779.968424
+17-03-2023,Home Appliances,Northeast,experience,3619.242563
+21-04-2023,Toys,West,listen,2490.420679
+03-11-2022,Books,Northeast,spend,2623.701982
+07-04-2023,Toys,Northeast,talk,9848.022635
+28-11-2022,Home Appliances,Midwest,ok,3863.480143
+02-01-2023,Books,Midwest,then,3226.773652
+08-11-2022,Books,Midwest,stop,5519.317163
+30-03-2023,Electronics,Northeast,couple,7487.261575
+15-10-2022,Electronics,Southeast,none,2505.021209
+07-09-2023,Electronics,Southeast,knowledge,1668.425035
+29-10-2022,Home Appliances,Southeast,run,9568.922626
+17-11-2022,Toys,Southwest,door,2279.473193
+06-03-2023,Books,West,Mr,1763.683913
+06-06-2023,Books,Northeast,consider,8259.971204
+07-07-2023,Electronics,Southeast,from,7582.785829
+21-11-2022,Books,Northeast,best,958.0031724
+25-08-2023,Toys,West,person,1195.186107
+30-11-2022,Home Appliances,Southeast,rather,3844.252572
+18-12-2022,Toys,Midwest,hotel,497.5367108
+13-02-2023,Books,Southwest,call,577.5007517
+11-11-2022,Clothing,Northeast,hand,3829.89029
+23-07-2023,Books,Southeast,thought,4393.579528
+04-05-2023,Books,Northeast,training,7083.39467
+16-09-2023,Books,West,back,1249.664553
+22-03-2023,Electronics,West,local,8297.781763
+04-08-2023,Clothing,Midwest,what,611.7993525
+13-01-2023,Clothing,Midwest,interview,7254.655907
+29-05-2023,Electronics,Midwest,everything,6217.398028
+26-04-2023,Electronics,West,dog,454.7067325
+20-08-2023,Toys,Northeast,ahead,5815.640739
+25-07-2023,Toys,Midwest,opportunity,1479.604403
+01-03-2023,Electronics,Northeast,question,7368.145229
+16-07-2023,Toys,Northeast,matter,8334.871967
+22-09-2023,Toys,Northeast,ago,1777.723917
+07-08-2023,Books,Northeast,win,6260.733625
+28-02-2023,Books,Northeast,even,8851.013746
+10-05-2023,Clothing,Midwest,you,2402.944008
+20-05-2023,Electronics,Midwest,catch,9501.63268
+15-12-2022,Books,Northeast,really,5050.343129
+23-09-2023,Books,Midwest,wonder,8461.269309
+12-02-2023,Toys,Northeast,director,1328.063263
+27-05-2023,Books,Southeast,record,7134.640907
+13-02-2023,Electronics,West,important,8454.476418
+01-06-2023,Home Appliances,Midwest,book,1885.418519
+09-01-2023,Books,Southwest,also,1882.037321
+14-12-2022,Home Appliances,Midwest,radio,6677.968963
+25-03-2023,Toys,Midwest,member,3524.283901
+25-06-2023,Clothing,Midwest,bed,3778.126075
+13-09-2023,Clothing,West,professional,9320.092326
+12-12-2022,Clothing,Southwest,term,8116.225005
+14-04-2023,Electronics,Southwest,professor,2150.106174
+13-07-2023,Clothing,Midwest,focus,617.3904031
+16-08-2023,Home Appliances,West,lead,1024.661166
+19-01-2023,Electronics,Northeast,eat,4196.401317
+10-01-2023,Home Appliances,Southwest,myself,8369.576971
+10-11-2022,Home Appliances,Midwest,car,5290.540534
+11-07-2023,Electronics,Northeast,many,202.5179367
+07-08-2023,Electronics,Midwest,military,6397.433571
+08-10-2023,Electronics,West,share,7641.534189
+23-06-2023,Books,Southwest,yes,6619.695479
+26-05-2023,Toys,Midwest,Mrs,8998.077491
+08-06-2023,Clothing,Southwest,hour,2909.086098
+13-07-2023,Home Appliances,Southwest,help,3167.670301
+25-06-2023,Toys,Northeast,west,4032.490034
+15-07-2023,Books,Northeast,long,9730.401662
+29-12-2022,Toys,Northeast,heart,2026.61098
+24-05-2023,Electronics,Midwest,picture,334.1877025
+11-04-2023,Electronics,Southeast,present,6423.199761
+27-07-2023,Toys,Midwest,recent,4294.502103
+06-11-2022,Home Appliances,Southwest,produce,107.2742104
+25-09-2023,Clothing,West,whether,8424.519159
+28-11-2022,Books,Southwest,TRUE,5006.228807
+08-02-2023,Clothing,West,tell,85.00756062
+02-05-2023,Home Appliances,Midwest,sort,9893.690513
+23-09-2023,Home Appliances,Midwest,whose,2062.536423
+08-05-2023,Clothing,Southeast,week,9644.480876
+07-08-2023,Books,Northeast,despite,6875.502599
+26-05-2023,Home Appliances,Northeast,Republican,7968.563574
+05-10-2023,Electronics,Southwest,source,1292.812434
+31-08-2023,Books,Midwest,hair,8628.215212
+24-08-2023,Electronics,Southwest,thank,1427.941444
+12-11-2022,Toys,West,cause,9935.601768
+23-06-2023,Toys,Midwest,next,6788.267113
+05-03-2023,Clothing,Southeast,kind,618.1053704
+12-03-2023,Toys,Southwest,open,413.2714944
+06-09-2023,Toys,Northeast,card,4428.430066
+11-09-2023,Toys,Southwest,material,3080.420009
+14-01-2023,Toys,Northeast,mention,9467.301183
+21-08-2023,Electronics,Midwest,quickly,9065.176831
+11-12-2022,Electronics,Midwest,health,3191.134211
+18-08-2023,Electronics,West,get,3917.998606
+09-02-2023,Toys,Southeast,impact,1477.842965
+04-05-2023,Electronics,Northeast,religious,9596.35907
+04-11-2022,Books,Northeast,step,8084.350812
+25-01-2023,Clothing,Midwest,tend,2286.507501
+21-02-2023,Toys,Southeast,per,8888.303683
+10-10-2023,Electronics,Northeast,owner,431.6661201
+06-04-2023,Electronics,Southwest,one,5023.238575
+13-08-2023,Home Appliances,Northeast,sing,7330.293846
+23-07-2023,Books,Northeast,Congress,2092.574438
+24-10-2022,Electronics,Southwest,enter,1753.627429
+24-10-2022,Home Appliances,Midwest,tax,5013.047726
+19-02-2023,Electronics,Southeast,middle,3760.915225
+16-09-2023,Home Appliances,Southeast,body,1723.082346
+14-04-2023,Home Appliances,Southeast,without,6612.782007
+16-08-2023,Toys,Northeast,add,7275.392005
+28-10-2022,Clothing,Northeast,watch,5074.443901
+22-04-2023,Clothing,Southeast,individual,1840.938825
+27-09-2023,Home Appliances,West,apply,64.60698582
+19-02-2023,Electronics,Southeast,address,3624.771073
+12-01-2023,Home Appliances,Northeast,son,6903.193146
+08-02-2023,Books,Southeast,including,3105.55903
+09-03-2023,Home Appliances,West,series,820.6344446
+14-10-2023,Toys,Southeast,heavy,7778.689714
+01-02-2023,Toys,West,system,966.3879282
+05-11-2022,Books,Northeast,throughout,5596.778683
+28-11-2022,Clothing,Northeast,although,8023.812902
+27-09-2023,Books,Midwest,ready,8649.578424
+26-11-2022,Home Appliances,Northeast,happen,9770.082523
+25-12-2022,Toys,Southeast,daughter,3599.194695
+30-05-2023,Electronics,West,expert,8424.713799
+05-04-2023,Toys,Southwest,surface,7473.444676
+06-10-2023,Clothing,Southwest,increase,6514.525474
+11-11-2022,Clothing,Northeast,north,5685.717772
+10-10-2023,Toys,West,several,9083.979719
+14-06-2023,Home Appliances,Northeast,deal,908.8671492
+02-01-2023,Clothing,Midwest,require,5322.830708
+31-07-2023,Home Appliances,Southeast,character,66.57120097
+20-06-2023,Home Appliances,Southwest,life,8582.823316
+05-08-2023,Books,West,thousand,7568.834967
+02-04-2023,Books,Midwest,defense,1416.156888
+20-01-2023,Electronics,Northeast,but,7442.491717
+29-05-2023,Books,Midwest,executive,6164.054564
+24-05-2023,Electronics,Midwest,fall,1574.452252
+20-12-2022,Clothing,Northeast,probably,9358.154152
+02-09-2023,Home Appliances,Northeast,perform,2227.255329
+12-05-2023,Toys,Southwest,actually,6180.90022
+14-10-2023,Electronics,West,item,1682.434123
+29-03-2023,Electronics,Southeast,figure,3077.383305
+01-09-2023,Books,West,plan,4328.136156
+09-03-2023,Toys,Southeast,kitchen,5739.836979
+27-09-2023,Toys,Northeast,meeting,341.6546237
+24-02-2023,Electronics,Midwest,late,181.4863858
+13-01-2023,Clothing,Midwest,out,5985.569625
+16-09-2023,Books,Southwest,sense,6647.155029
+23-01-2023,Home Appliances,Southeast,where,5354.703122
+02-05-2023,Home Appliances,West,about,6336.414582
+24-06-2023,Home Appliances,Southwest,store,6013.251349
+06-08-2023,Electronics,Midwest,computer,9291.396296
+02-05-2023,Clothing,Midwest,paper,8857.996835
+19-05-2023,Books,West,nothing,3469.515814
+14-03-2023,Electronics,Southwest,medical,2223.210211
+30-04-2023,Toys,West,mother,8448.086672
+21-07-2023,Home Appliances,Southeast,moment,6376.998627
+12-12-2022,Books,Southeast,coach,154.6621449
+06-07-2023,Toys,Northeast,research,9510.041521
+02-11-2022,Clothing,Southeast,like,776.1864619
+11-08-2023,Home Appliances,Northeast,later,6382.795677
+02-10-2023,Home Appliances,West,very,6941.681609
+05-08-2023,Electronics,Northeast,admit,1958.617853
+16-09-2023,Toys,Southeast,over,3582.906567
+21-11-2022,Electronics,Southeast,manager,3442.112847
+16-08-2023,Books,Midwest,parent,9435.689967
+23-06-2023,Clothing,West,particular,9231.897034
+29-09-2023,Electronics,Midwest,soldier,3981.89222
+20-01-2023,Clothing,Midwest,fast,7873.437989
+28-05-2023,Electronics,Southeast,news,5848.848288
+15-04-2023,Clothing,Northeast,fill,8187.027788
+27-12-2022,Toys,Northeast,political,973.2806115
+18-04-2023,Books,Southeast,test,9738.378028
+09-02-2023,Electronics,Midwest,that,9327.835945
+14-04-2023,Home Appliances,Northeast,such,7608.253913
+10-09-2023,Clothing,Southwest,perhaps,5270.686776
+16-08-2023,Toys,Southeast,respond,399.4329535
+30-04-2023,Clothing,Southwest,and,846.0316756
+13-03-2023,Books,Northeast,old,5831.571297
+18-12-2022,Clothing,Midwest,close,8434.606438
+31-12-2022,Books,Northeast,key,9391.718622
+31-01-2023,Clothing,Southwest,choose,30.03173739
+20-01-2023,Toys,Northeast,five,5426.693668
+30-09-2023,Toys,Midwest,player,3956.59545
+02-02-2023,Books,Midwest,author,3486.07354
+18-11-2022,Clothing,Northeast,could,7063.68565
+22-11-2022,Books,Midwest,marriage,6200.85054
+21-08-2023,Clothing,West,soon,7283.343654
+05-05-2023,Books,Midwest,almost,5766.148981
+16-06-2023,Clothing,Northeast,lose,6095.109038
+30-05-2023,Home Appliances,Southwest,follow,8682.087213
+17-05-2023,Books,Southwest,conference,8870.082327
+28-04-2023,Clothing,West,laugh,5709.968405
+16-04-2023,Electronics,Southwest,appear,4239.553192
+23-03-2023,Clothing,Southwest,us,4374.918973
+02-10-2023,Clothing,Midwest,sometimes,8394.404557
+03-03-2023,Toys,Southeast,piece,9316.939393
+27-11-2022,Home Appliances,Midwest,identify,332.6735537
+09-01-2023,Electronics,Southeast,or,6940.109244
+22-06-2023,Clothing,West,nearly,9177.975753
+22-11-2022,Electronics,Northeast,relationship,7124.567712
+03-10-2023,Home Appliances,Northeast,involve,9823.18212
+26-05-2023,Clothing,Southeast,mission,2672.436114
+19-05-2023,Clothing,West,exactly,8315.314347
+26-07-2023,Toys,Northeast,always,5337.891628
+18-09-2023,Toys,Midwest,financial,4275.548773
+20-10-2022,Home Appliances,Southwest,just,2456.72008
+19-07-2023,Clothing,Northeast,today,2803.887707
+01-09-2023,Electronics,Southwest,themselves,6814.324375
+10-04-2023,Clothing,Northeast,cold,8840.935099
+27-09-2023,Toys,Southeast,small,5559.918016
+03-11-2022,Home Appliances,West,join,2127.930357
+11-06-2023,Electronics,Southeast,bad,4928.141042
+22-08-2023,Clothing,West,visit,2838.548659
+31-05-2023,Books,Midwest,environment,2219.395935
+05-07-2023,Clothing,Midwest,organization,9428.771501
+10-08-2023,Electronics,Midwest,painting,8810.018616
+01-02-2023,Books,West,gun,9930.915432
+26-06-2023,Toys,Southeast,wide,464.396664
+17-03-2023,Toys,Northeast,example,2234.956972
+17-02-2023,Books,Southwest,fact,7204.176812
+17-09-2023,Electronics,West,collection,6048.211248
+29-05-2023,Toys,Northeast,company,7153.188337
+05-07-2023,Home Appliances,Southwest,film,7643.18137
+09-10-2023,Electronics,Southeast,here,7423.195146
+17-10-2022,Home Appliances,Southeast,easy,122.8325416
+03-06-2023,Clothing,West,according,1537.029607
+15-04-2023,Electronics,West,central,5994.501082
+31-05-2023,Home Appliances,West,building,7794.663776
+15-07-2023,Clothing,Southwest,public,7195.334835
+02-05-2023,Home Appliances,Midwest,others,3446.088047
+09-08-2023,Books,West,thing,3978.489915
+23-03-2023,Home Appliances,Southwest,board,2696.423313
+19-11-2022,Books,West,country,5676.220255
+25-07-2023,Home Appliances,Midwest,finish,9309.618543
+19-04-2023,Home Appliances,Midwest,sure,4640.050858
+10-02-2023,Clothing,Southeast,image,4666.205408
+09-05-2023,Toys,Midwest,shake,3474.715946
+01-07-2023,Home Appliances,Northeast,center,2919.213818
+27-10-2022,Books,Southeast,market,2929.248571
+29-07-2023,Electronics,Southeast,available,4877.870466
+29-06-2023,Books,Southeast,simple,7034.74284
+31-05-2023,Clothing,West,agreement,4405.870079
+25-05-2023,Electronics,Northeast,between,3360.694372
+30-10-2022,Clothing,West,condition,74.09196655
+22-02-2023,Toys,Southwest,wall,8028.573234
+17-09-2023,Clothing,Northeast,project,9219.573157
+20-09-2023,Books,Southeast,word,54.86106071
+24-08-2023,Books,Midwest,prove,7540.841235
+03-06-2023,Toys,West,chair,4999.520421
+16-11-2022,Electronics,Southeast,good,7842.720696
+11-04-2023,Clothing,Southwest,indeed,1010.472287
+10-01-2023,Clothing,West,century,683.8670078
+16-12-2022,Toys,Midwest,road,2045.742146
+04-04-2023,Clothing,Northeast,away,7633.481375
+03-12-2022,Clothing,West,party,5331.911514
+30-06-2023,Clothing,Midwest,try,3292.800103
+20-07-2023,Electronics,Midwest,senior,5393.243371
+09-03-2023,Home Appliances,Southeast,television,115.1766694
+15-06-2023,Toys,West,ask,7593.825507
+27-04-2023,Home Appliances,Midwest,article,5870.767668
+29-04-2023,Electronics,Southeast,morning,5142.772187
+15-10-2022,Electronics,Northeast,phone,3440.501653
+05-06-2023,Electronics,Midwest,down,5066.90696
+18-09-2023,Electronics,West,leave,486.3569262
+17-01-2023,Home Appliances,West,similar,8741.924465
+03-04-2023,Books,Northeast,memory,5569.631838
+16-10-2022,Electronics,West,would,792.8261165
+27-07-2023,Electronics,Southeast,general,905.2287627
+27-10-2022,Electronics,Northeast,day,7394.396009
+01-06-2023,Clothing,Southwest,western,7557.704743
+11-12-2022,Books,West,read,8379.318099
+05-08-2023,Books,Southeast,study,5713.927442
+01-12-2022,Books,Southwest,single,977.4739066
+22-04-2023,Electronics,Northeast,put,8146.500093
+17-08-2023,Toys,Southwest,agree,1055.783792
+14-03-2023,Toys,Southeast,traditional,8922.93127
+23-11-2022,Toys,West,bag,2356.869413
+23-10-2022,Clothing,West,method,1243.701331
+25-08-2023,Clothing,Southeast,live,636.6973813
+23-05-2023,Clothing,Northeast,south,9574.740921
+01-04-2023,Home Appliances,Midwest,outside,2621.557822
+27-09-2023,Electronics,Southwest,minute,3977.777454
+31-03-2023,Electronics,West,state,3268.27047
+28-03-2023,Home Appliances,Midwest,above,6642.613569
+01-02-2023,Toys,West,gas,101.9899362
+22-11-2022,Toys,Southwest,difference,6917.379823
+23-02-2023,Home Appliances,Midwest,control,5985.399168
+02-04-2023,Toys,Northeast,take,3326.174397
+30-05-2023,Books,Midwest,popular,5987.628357
+20-07-2023,Electronics,Northeast,use,8015.338551
+06-11-2022,Books,West,international,6485.567124
+19-04-2023,Books,Southwest,blue,4329.266512
+28-10-2022,Clothing,West,smile,4651.079118
+28-05-2023,Home Appliances,Midwest,among,8517.029887
+05-09-2023,Home Appliances,Midwest,form,8867.063352
+08-09-2023,Home Appliances,Southeast,college,5663.973147
+26-12-2022,Electronics,Midwest,alone,3204.999127
+11-05-2023,Toys,Southwest,president,2044.976924
+11-06-2023,Books,West,him,409.550305
+03-04-2023,Books,West,pull,2260.877274
+10-02-2023,Electronics,West,policy,4952.567012
+27-01-2023,Toys,Southeast,begin,5897.446637
+05-07-2023,Home Appliances,Southwest,check,3392.12038
+04-01-2023,Home Appliances,Midwest,believe,3082.015406
+19-02-2023,Books,Northeast,along,6841.941906
+20-09-2023,Books,West,participant,7966.627383
+17-02-2023,Books,Southwest,dinner,4928.972647
+01-11-2022,Books,Midwest,garden,5298.012914
+04-02-2023,Electronics,Midwest,speech,942.8709402
+16-09-2023,Home Appliances,Midwest,voice,1822.42302
+01-08-2023,Toys,Northeast,success,6165.932028
+14-08-2023,Clothing,Southeast,clear,9318.674792
+23-04-2023,Home Appliances,Southeast,economy,8058.152187
+13-12-2022,Books,Northeast,man,9455.049273
+17-12-2022,Electronics,Southeast,those,5252.299774
+04-05-2023,Home Appliances,Southeast,compare,6735.405834
+11-12-2022,Electronics,Midwest,responsibility,3290.63757
+13-06-2023,Clothing,West,idea,4537.017686
+06-01-2023,Books,Southeast,stand,4764.28821
+12-09-2023,Clothing,Northeast,your,684.2619975
+10-02-2023,Clothing,West,foot,2949.627067
+11-08-2023,Toys,Midwest,who,9502.459457
+21-12-2022,Books,Southeast,newspaper,8241.814763
+01-12-2022,Clothing,West,southern,4218.062168
+07-08-2023,Home Appliances,Southwest,sea,3087.689944
+31-03-2023,Home Appliances,Midwest,fly,8108.295257
+26-05-2023,Books,Midwest,air,5266.65709
+13-10-2023,Clothing,Southwest,first,5261.213612
+23-12-2022,Home Appliances,Southwest,move,2475.200925
+10-01-2023,Toys,West,decision,5504.414929
+06-01-2023,Books,West,short,6027.328018
+22-11-2022,Toys,Southeast,think,1754.02284
+25-12-2022,Books,Southwest,water,757.3676724
+28-11-2022,Toys,Southwest,lot,99.09567443
+12-04-2023,Home Appliances,Northeast,them,1292.590202
+05-07-2023,Toys,Northeast,plant,4680.540283
+31-10-2022,Toys,Southwest,part,8980.61728
+10-10-2023,Toys,West,pay,6669.579925
+11-05-2023,Home Appliances,West,attack,3734.876763
+12-12-2022,Toys,Southwest,clearly,9187.197256
+24-08-2023,Toys,Southeast,value,36.31263971
+29-09-2023,Books,West,thus,1993.322662
+25-04-2023,Books,Northeast,cost,5305.324751
+17-05-2023,Books,Northeast,modern,5378.500654
+15-11-2022,Books,Northeast,understand,973.7965936
+18-01-2023,Toys,Southeast,city,8412.493631
+13-01-2023,Clothing,West,hold,8363.932308
+29-09-2023,Books,Southwest,future,817.2822888
+01-02-2023,Electronics,Northeast,allow,7937.424126
+13-01-2023,Home Appliances,Northeast,can,4057.0438
+31-08-2023,Clothing,Northeast,ever,6667.933121
+07-08-2023,Electronics,Northeast,wind,8892.391164
+16-10-2022,Clothing,Midwest,nor,9470.420296
+21-04-2023,Clothing,Southwest,employee,6411.418055
+03-06-2023,Home Appliances,West,up,4722.062698
+19-06-2023,Toys,Midwest,artist,3829.965642
+27-07-2023,Books,Southwest,affect,9719.1951
+19-04-2023,Home Appliances,Northeast,eye,1378.105093
+23-04-2023,Clothing,Northeast,Democrat,8729.229681
+09-08-2023,Toys,Northeast,business,5427.902894
+28-02-2023,Home Appliances,Southeast,size,6170.062381
+07-09-2023,Clothing,Midwest,green,2232.104369
+28-08-2023,Books,West,face,5673.474435
+19-09-2023,Home Appliances,Northeast,again,8092.141107
+23-12-2022,Electronics,Southeast,say,9849.327099
+15-07-2023,Toys,Southeast,reflect,1614.481302
+12-10-2023,Toys,West,at,6582.886253
+23-10-2022,Books,Southeast,economic,7690.373674
+31-10-2022,Books,Midwest,hear,6847.012837
+19-11-2022,Home Appliances,Northeast,site,8110.144687
+10-11-2022,Books,Southwest,upon,5108.577719
+03-11-2022,Toys,Northeast,grow,9723.883415
+14-08-2023,Home Appliances,Midwest,school,3815.997841
+05-06-2023,Toys,Midwest,wish,8962.503574
+28-01-2023,Home Appliances,Northeast,effect,3043.92009
+15-06-2023,Books,Southwest,nation,7236.085268
+16-01-2023,Books,Southeast,evening,3918.199897
+07-07-2023,Clothing,West,amount,9537.578859
+03-08-2023,Toys,Southeast,rate,2060.647992
+26-08-2023,Toys,Midwest,skin,4376.31115
+13-03-2023,Toys,West,strong,6250.815111
+05-05-2023,Clothing,West,society,7543.707758
+26-04-2023,Home Appliances,Midwest,nice,1440.655068
+14-05-2023,Electronics,Northeast,commercial,2465.772105
+07-09-2023,Home Appliances,Southeast,sound,8796.818312
+26-04-2023,Toys,Midwest,he,8944.821358
+23-03-2023,Clothing,West,bit,408.2094484
+17-09-2023,Clothing,West,pretty,3071.451025
+17-11-2022,Electronics,Northeast,likely,9443.615846
+21-09-2023,Toys,West,box,4713.396579
+10-05-2023,Electronics,Northeast,few,8113.29929
+15-08-2023,Home Appliances,West,great,7147.384261
+07-11-2022,Clothing,Southeast,PM,1808.984554
+14-03-2023,Books,Midwest,find,4915.179189
+30-12-2022,Electronics,Northeast,response,2773.019457
+05-08-2023,Toys,West,new,4400.916889
+15-12-2022,Clothing,West,investment,2243.242838
+28-09-2023,Clothing,Midwest,assume,5038.435926
+14-03-2023,Home Appliances,Northeast,wife,6796.565316
+22-09-2023,Clothing,Northeast,seem,2544.693592
+14-04-2023,Electronics,West,often,4794.279385
+28-04-2023,Books,Southwest,huge,7593.156346
+21-07-2023,Clothing,West,my,4478.752872
+01-12-2022,Toys,Midwest,show,4322.704176
+19-01-2023,Books,West,act,6188.654341
+20-02-2023,Electronics,Midwest,fear,7393.141765
+25-06-2023,Clothing,Southeast,bill,3777.363652
+26-02-2023,Books,Southwest,need,8579.423723
+21-09-2023,Electronics,Midwest,teach,5919.63577
+07-10-2023,Clothing,West,hard,7448.911041
+02-12-2022,Toys,West,music,6029.007581
+14-05-2023,Toys,Southeast,stock,2100.70885
+10-12-2022,Toys,Midwest,growth,9814.379743
+11-06-2023,Books,Southwest,onto,8125.632573
+23-10-2022,Toys,Southeast,no,4410.30154
+02-03-2023,Books,Southeast,fund,3811.389056
+26-11-2022,Toys,Southeast,task,556.6058212
+22-02-2023,Toys,Northeast,lawyer,7191.495291
+15-02-2023,Home Appliances,Midwest,someone,2734.688234
+13-07-2023,Toys,Midwest,build,1199.164473
+09-11-2022,Home Appliances,Southeast,within,1391.110359
+10-01-2023,Home Appliances,Southeast,trouble,2476.161793
+18-02-2023,Toys,Southeast,high,9229.841237
+16-11-2022,Toys,Southwest,cell,6185.497855
+30-03-2023,Clothing,Southwest,unit,8183.801848
+25-03-2023,Books,Northeast,network,1365.550548
+04-06-2023,Clothing,Midwest,magazine,5944.497623
+24-06-2023,Clothing,West,three,937.0254187
+30-03-2023,Clothing,Midwest,time,282.6709383
+07-02-2023,Books,Midwest,level,2513.074984
+08-01-2023,Books,West,yard,2345.251561
+19-03-2023,Home Appliances,West,rise,5656.150094
+11-01-2023,Books,Southwest,toward,3874.256801
+20-05-2023,Books,West,everyone,1058.091927
+19-08-2023,Home Appliances,Northeast,discuss,1643.846351
+12-08-2023,Electronics,Midwest,exist,5608.361101
+09-05-2023,Toys,Northeast,fine,9783.712622
+08-01-2023,Electronics,Southeast,however,1967.405129
+05-03-2023,Toys,West,these,2351.391832
+07-04-2023,Toys,Northeast,security,3033.267902
+02-12-2022,Electronics,West,well,744.722261
+31-01-2023,Books,West,into,5393.378203
+03-06-2023,Clothing,Southwest,student,1969.759296
+03-02-2023,Books,Southwest,two,7877.43924
+29-11-2022,Toys,Southeast,base,5627.297345
+02-07-2023,Books,Southeast,much,3921.091577
+02-09-2023,Clothing,West,push,6160.895476
+02-07-2023,Clothing,Northeast,dream,5605.635001
+10-01-2023,Electronics,Northeast,answer,8357.384982
+03-08-2023,Home Appliances,Southeast,movement,1409.45738
+30-08-2023,Books,West,most,3568.545345
+25-01-2023,Clothing,Northeast,successful,2734.906765
+24-12-2022,Toys,Southwest,name,884.4919396
+20-09-2023,Books,Northeast,development,2033.167085
+28-11-2022,Home Appliances,West,left,500.0483165
+08-09-2023,Clothing,Midwest,spring,4839.904584
+03-02-2023,Electronics,West,end,9627.748399
+06-07-2023,Clothing,Southeast,himself,6784.608806
+28-03-2023,Toys,West,sit,919.485517
+15-10-2022,Toys,Midwest,return,9929.339929
+11-01-2023,Home Appliances,West,degree,7075.956739
+31-08-2023,Clothing,West,both,4072.240635
+05-11-2022,Clothing,Midwest,bar,7334.764244
+22-11-2022,Electronics,Southwest,rule,1776.362715
+06-06-2023,Toys,West,physical,7990.980655
+20-07-2023,Home Appliances,Midwest,design,3906.187557
+15-08-2023,Books,Midwest,they,7234.140749
+14-01-2023,Electronics,Southeast,TV,5409.990503
+29-06-2023,Clothing,West,month,2029.066392
+18-07-2023,Toys,Southwest,group,5165.731397
+22-12-2022,Home Appliances,Midwest,race,3852.174232
+05-08-2023,Clothing,West,far,6748.542833
+26-10-2022,Electronics,Southeast,concern,9491.978054
+11-07-2023,Toys,Southeast,safe,4034.51231
+26-07-2023,Clothing,Southeast,peace,6561.486936
+16-04-2023,Toys,Northeast,hope,6760.144413
+08-03-2023,Home Appliances,Southeast,threat,5015.524652
+06-05-2023,Home Appliances,West,people,4281.00389
+01-09-2023,Electronics,West,usually,7602.927248
+29-06-2023,Electronics,West,cup,8790.324936
+15-07-2023,Electronics,Southwest,generation,2582.382365
+10-08-2023,Electronics,Midwest,be,726.2253498
+08-05-2023,Toys,Midwest,report,7415.799548
+16-11-2022,Books,Northeast,program,276.6548161
+19-01-2023,Electronics,West,cut,222.1939665
+13-06-2023,Books,Southeast,kid,652.8678134
+15-09-2023,Books,Northeast,section,3469.720191
+06-05-2023,Electronics,Southwest,forget,4412.074749
+02-02-2023,Toys,West,history,6021.161541
+17-05-2023,Electronics,West,yourself,5563.035373
+13-08-2023,Home Appliances,West,once,9838.894254
+07-01-2023,Clothing,Midwest,science,8998.348069
+14-03-2023,Electronics,Midwest,education,3246.04169
+21-12-2022,Toys,Southeast,floor,8579.250389
+01-08-2023,Toys,Midwest,attorney,2889.803483
+30-06-2023,Electronics,Southwest,itself,3435.606136
+16-03-2023,Books,Southeast,budget,9983.536681
+19-10-2022,Clothing,Northeast,same,9053.399706
+13-11-2022,Electronics,West,hit,6248.002525
+08-09-2023,Home Appliances,Northeast,east,9040.268491
+31-10-2022,Electronics,Northeast,campaign,1713.867981
+10-12-2022,Home Appliances,West,poor,6603.278024
+04-06-2023,Electronics,Southwest,special,1314.021868
+17-06-2023,Books,Northeast,treatment,8504.458798
+13-05-2023,Clothing,Midwest,decide,5289.27803
+30-04-2023,Books,Midwest,stuff,6414.313175
+17-04-2023,Clothing,Southeast,whole,5756.493657
+12-12-2022,Toys,Midwest,oil,3007.650884
+11-03-2023,Books,Midwest,loss,3088.627536
+19-10-2022,Books,West,food,5793.219308
+29-11-2022,Clothing,Southeast,something,9724.1782
+09-02-2023,Clothing,Southeast,past,3686.387999
+27-01-2023,Toys,Midwest,environmental,7219.084255
+13-08-2023,Electronics,Northeast,structure,7917.535107
+17-01-2023,Toys,Southeast,authority,6082.708167
+19-07-2023,Books,Midwest,herself,4996.020043
+03-03-2023,Books,Southwest,while,2793.752812
+29-06-2023,Books,Midwest,front,5690.625333
+25-07-2023,Books,West,top,9718.979425
+11-02-2023,Home Appliances,Southeast,young,8918.168755
+25-02-2023,Electronics,West,become,7746.201558
+29-06-2023,Home Appliances,Southwest,discussion,3424.699217
+19-12-2022,Electronics,Midwest,former,1816.543091
+19-03-2023,Toys,Midwest,how,6307.149244
+16-08-2023,Electronics,Southwest,establish,3547.038273
+25-08-2023,Toys,West,give,1223.472905
+20-08-2023,Toys,Southwest,agent,4656.88425
+30-09-2023,Electronics,Midwest,fire,6883.804984
+27-04-2023,Books,Northeast,wear,5259.695346
+05-12-2022,Books,West,set,2071.160063
+27-03-2023,Toys,West,energy,9805.353341
+26-09-2023,Books,Southeast,more,9068.99405
+07-10-2023,Toys,West,factor,8600.603761
+20-01-2023,Clothing,Northeast,specific,2168.180018
+01-12-2022,Clothing,West,practice,932.4525661
+08-11-2022,Clothing,West,mean,9075.097739
+12-09-2023,Books,Northeast,truth,8737.561618
+05-12-2022,Books,Midwest,summer,8280.5422
+23-06-2023,Electronics,Midwest,support,9451.406891
+30-05-2023,Toys,Southwest,million,501.354205
+09-08-2023,Books,Southwest,wait,7677.647717
+05-08-2023,Clothing,Midwest,possible,4607.0035
+08-06-2023,Books,Northeast,data,6291.920494
+11-02-2023,Toys,Southeast,result,4314.874898
+27-01-2023,Toys,Midwest,season,8508.264515
+18-08-2023,Home Appliances,Midwest,list,3631.376439
+27-02-2023,Clothing,Midwest,learn,9936.540485
+20-05-2023,Clothing,Northeast,look,538.9167954
+15-09-2023,Clothing,Southwest,carry,9319.934518
+03-04-2023,Clothing,Southeast,land,4452.45166
+18-05-2023,Toys,Southwest,chance,2064.436773
+11-02-2023,Electronics,Midwest,big,2357.322087
+11-02-2023,Electronics,West,send,6732.709297
+26-12-2022,Toys,Southwest,offer,7823.525414
+12-03-2023,Clothing,Midwest,suggest,2779.746768
+03-01-2023,Clothing,Midwest,rich,1237.942322
+09-09-2023,Toys,Southwest,travel,1197.410012
+19-09-2023,Toys,Southwest,together,7227.374226
+16-02-2023,Home Appliances,Southeast,against,4453.449949
+16-10-2022,Home Appliances,Southeast,administration,5307.712469
+10-09-2023,Books,Midwest,other,591.4961691
+23-04-2023,Toys,Northeast,every,3459.62917
+08-08-2023,Electronics,Northeast,issue,9412.931987
+13-04-2023,Home Appliances,West,six,3749.381368
+14-09-2023,Books,Midwest,turn,681.0133303
+06-08-2023,Electronics,Midwest,cover,7822.565249
+28-04-2023,Electronics,Southwest,whom,9731.910338
+05-09-2023,Toys,Southeast,direction,2368.855885
+05-11-2022,Toys,Southeast,than,3597.871154
+16-02-2023,Books,Southeast,suddenly,5773.694985
+21-07-2023,Toys,Midwest,when,6296.568887
+07-06-2023,Toys,Southwest,property,6376.760198
+15-09-2023,Clothing,Northeast,miss,6831.238178
+04-07-2023,Books,Southeast,area,8751.032462
+09-01-2023,Home Appliances,Southwest,goal,3004.141187
+02-11-2022,Clothing,Midwest,behind,3055.789108
+13-01-2023,Clothing,Midwest,occur,6246.938067
+11-03-2023,Toys,Southeast,blood,179.7222502
+01-12-2022,Home Appliances,West,current,5451.434958
+04-11-2022,Electronics,West,year,9665.490694
+19-06-2023,Clothing,Northeast,worker,912.3280085
+15-07-2023,Home Appliances,Southeast,home,6273.310824
+08-11-2022,Electronics,West,remember,9951.163487
+07-07-2023,Toys,Midwest,risk,1479.495876
+22-02-2023,Books,Southeast,care,2999.2981
+16-11-2022,Books,Northeast,drop,4227.092933
+31-12-2022,Home Appliances,West,information,9714.782939
+20-10-2022,Books,Northeast,operation,4551.432043
+12-05-2023,Books,Midwest,go,3049.074092
+29-08-2023,Home Appliances,Midwest,on,2621.556972
+11-05-2023,Toys,West,the,145.3765012
+04-01-2023,Books,Midwest,improve,318.2946961
+25-04-2023,Electronics,Midwest,role,9618.551369
+12-01-2023,Home Appliances,Southeast,movie,4447.737094
+19-05-2023,Books,Midwest,politics,7794.621807
+05-08-2023,Books,Midwest,serious,9734.208503
+28-01-2023,Books,Midwest,certain,5234.394211
+03-05-2023,Clothing,Northeast,discover,933.1185588
+26-05-2023,Toys,Southwest,case,7738.560475
+24-06-2023,Clothing,Northeast,explain,8792.296688
+05-04-2023,Home Appliances,Midwest,seat,5979.703127
+17-11-2022,Toys,Southeast,rock,9104.358352
+10-04-2023,Home Appliances,Southeast,dark,4129.560105
+31-05-2023,Electronics,Northeast,officer,6125.182722
+16-03-2023,Electronics,West,why,9958.933564
+29-08-2023,Home Appliances,Northeast,personal,9344.480173
+14-07-2023,Home Appliances,Southwest,play,7959.494162
+18-02-2023,Home Appliances,West,service,624.3038427
+25-06-2023,Home Appliances,Northeast,message,995.9609226
+16-04-2023,Books,West,adult,7184.290232
+05-05-2023,Toys,Southeast,benefit,2264.816232
+27-04-2023,Electronics,West,start,1643.544887
+04-12-2022,Books,Northeast,performance,6799.898842
+20-12-2022,Home Appliances,West,accept,2549.178764
+01-03-2023,Home Appliances,Southwest,reach,9776.115167
+31-03-2023,Electronics,Midwest,reality,1677.446444
+05-09-2023,Toys,Northeast,we,9791.653254
+01-04-2023,Books,Midwest,brother,5892.432795
+05-07-2023,Electronics,Northeast,third,1167.303117
+25-06-2023,Toys,Southeast,election,343.6968018
+04-06-2023,Electronics,West,prevent,464.6280503
+26-11-2022,Clothing,Southwest,career,6646.994994
+07-10-2023,Toys,West,trip,397.0812884
+06-10-2023,Books,Southwest,writer,1940.028858
+25-07-2023,Books,Southeast,mind,5570.093002
+23-08-2023,Electronics,Southeast,war,4706.356458
+21-07-2023,Books,West,girl,5870.672325
+24-04-2023,Electronics,Midwest,should,3034.700987
+21-08-2023,Books,Southeast,trial,7338.042212
+06-06-2023,Electronics,West,buy,6895.409631
+28-05-2023,Toys,West,instead,5118.88397
+26-10-2022,Electronics,Midwest,anyone,4985.056267
+11-03-2023,Home Appliances,Southeast,avoid,6172.567724
+18-12-2022,Books,Southeast,detail,746.5140463
+20-04-2023,Toys,Northeast,fight,9248.265871
+11-05-2023,Books,Southeast,region,2765.475393
+26-06-2023,Clothing,Southeast,before,2164.173976
+06-09-2023,Toys,Southwest,enjoy,9416.982357
+19-01-2023,Books,Southwest,in,7051.238545
+06-10-2023,Home Appliances,West,stay,2040.03859
+14-09-2023,Home Appliances,Midwest,product,291.4775686
+24-01-2023,Books,Southwest,tough,5420.744097
+18-11-2022,Home Appliances,Southeast,consumer,2146.989769
+21-09-2023,Home Appliances,Northeast,main,4534.823045
+01-11-2022,Home Appliances,West,pick,549.7020771
+22-05-2023,Books,Southwest,analysis,4044.492497
+24-04-2023,Books,Southwest,federal,682.543965
+11-09-2023,Clothing,West,account,6220.801599
+01-06-2023,Home Appliances,West,way,9656.361624
+11-04-2023,Clothing,Southeast,simply,467.6865731
+07-06-2023,Electronics,Northeast,receive,2336.929653
+05-06-2023,Books,Midwest,because,7842.708824
+10-08-2023,Electronics,West,edge,496.922333
+25-07-2023,Home Appliances,Southwest,happy,954.0133405
+01-09-2023,Clothing,West,leg,8933.806357
+04-07-2023,Books,Midwest,official,8092.3504
+20-08-2023,Books,Southeast,see,2800.253227
+02-04-2023,Books,Southwest,drug,8906.130573
+23-04-2023,Electronics,Southwest,bank,3014.174555
+17-07-2023,Books,Northeast,under,8770.778764
+20-12-2022,Toys,Southwest,I,4908.372528
+16-09-2023,Home Appliances,West,cultural,1006.213075
+18-05-2023,Clothing,Southwest,his,9742.064359
+31-03-2023,Clothing,Southeast,whatever,4050.687421
+05-01-2023,Electronics,Midwest,imagine,9855.590321
+15-02-2023,Electronics,Northeast,culture,2226.95732
+30-01-2023,Books,Southwest,head,677.6929559
+17-10-2022,Clothing,Midwest,sell,932.310211
+19-11-2022,Books,Midwest,glass,4285.816777
+06-01-2023,Home Appliances,Midwest,sister,3110.372448
+06-07-2023,Books,Northeast,provide,5147.757597
+25-11-2022,Electronics,Midwest,never,3926.406266
+09-05-2023,Toys,West,natural,6398.941044
+12-10-2023,Home Appliances,Southeast,of,5673.541372
+22-01-2023,Clothing,Southeast,weight,1562.80074
+22-04-2023,Electronics,Southwest,effort,7891.247956
+01-06-2023,Books,Southwest,crime,3883.968122
+02-05-2023,Clothing,Northeast,particularly,2820.946076
+17-08-2023,Clothing,Midwest,government,8355.559846
+27-04-2023,Clothing,Midwest,age,4090.747258
+01-05-2023,Books,West,least,6106.432531
+20-09-2023,Home Appliances,West,must,2589.585107
+17-06-2023,Toys,Southwest,protect,1901.300056
+04-08-2023,Home Appliances,Southwest,four,2241.203312
+28-12-2022,Electronics,Northeast,pattern,2283.673711
+13-03-2023,Electronics,Southwest,situation,2414.393289
+29-03-2023,Clothing,Northeast,team,1059.851128
+25-07-2023,Books,Northeast,for,9816.200349
+24-06-2023,Home Appliances,Northeast,some,7855.713819
+11-09-2023,Electronics,West,red,3644.588244
+08-01-2023,Clothing,West,power,910.0740741
+23-10-2022,Electronics,Southwest,another,9887.311447
+16-10-2022,Home Appliances,Northeast,me,8291.047379
+21-03-2023,Clothing,Midwest,during,5148.825881
+07-03-2023,Books,Midwest,strategy,150.927645
+05-12-2022,Electronics,Midwest,force,7118.79535
+24-03-2023,Home Appliances,Midwest,hospital,6087.676369
+06-07-2023,Electronics,West,candidate,4224.792234
+07-11-2022,Electronics,Southwest,purpose,6024.285966
+12-07-2023,Toys,West,beyond,2016.600777
+19-11-2022,Clothing,West,significant,2864.386667
+12-05-2023,Home Appliances,Southwest,event,5528.520796
+25-03-2023,Toys,Midwest,office,7581.613037
+28-02-2023,Clothing,Midwest,create,8762.029987
+17-08-2023,Books,Southwest,positive,3375.652863
+26-01-2023,Clothing,Southwest,light,36.83999399
+14-04-2023,Home Appliances,Southeast,model,3531.004222
+19-12-2022,Electronics,West,indicate,3065.349087
+18-03-2023,Electronics,Southeast,ground,2304.735595
+01-10-2023,Home Appliances,Southwest,debate,6763.22976
+17-09-2023,Books,Southeast,common,7473.004851
+05-03-2023,Electronics,West,throw,5970.954197
+24-05-2023,Books,Northeast,money,5809.315571
+12-11-2022,Toys,Southwest,less,9020.944038
+13-02-2023,Electronics,Northeast,will,4696.216832
+18-11-2022,Toys,West,range,8858.622251
+31-10-2022,Toys,Northeast,arm,521.7039828
+07-04-2023,Electronics,Southwest,ability,8349.572994
+22-11-2022,Toys,Northeast,resource,6896.510631
+21-05-2023,Clothing,West,family,3156.948735
+10-05-2023,Clothing,West,final,5726.078141
+25-02-2023,Books,Southeast,maintain,2045.115426
+26-01-2023,Clothing,Southwest,already,9175.967454
+08-05-2023,Electronics,Southwest,serve,8290.723435
+08-08-2023,Toys,Southwest,sport,4596.086696
+16-01-2023,Electronics,Southeast,keep,419.4898209
+25-04-2023,Electronics,Northeast,want,3179.430412
+26-03-2023,Books,West,course,6638.504843
+11-08-2023,Books,Midwest,manage,9520.806014
+03-06-2023,Toys,West,do,7516.13844
+02-08-2023,Home Appliances,Midwest,better,3960.010083
+11-01-2023,Home Appliances,West,all,2039.649391
+26-06-2023,Books,Northeast,enough,9094.012442
+22-11-2022,Books,Southwest,national,1125.948512
+21-07-2023,Clothing,Northeast,fish,7965.41495
+16-12-2022,Home Appliances,Northeast,remain,796.1210028
+17-03-2023,Electronics,Midwest,style,1443.206576
+06-09-2023,Electronics,Southwest,staff,1730.684691
+01-01-2023,Electronics,Southeast,especially,1911.058402
+14-03-2023,Books,Southeast,town,5640.566798
+27-04-2023,Home Appliances,West,full,6213.632151
+24-01-2023,Books,Northeast,second,7707.833966
+04-09-2023,Clothing,Northeast,save,1185.062365
+01-07-2023,Books,Midwest,everybody,3931.203934
+15-03-2023,Home Appliances,West,black,9436.150552
+29-05-2023,Electronics,Southwest,seek,8734.660667
+05-05-2023,Books,West,total,8454.655507
+14-11-2022,Toys,Southeast,yet,351.6150332
+16-09-2023,Books,Northeast,democratic,8388.328334
+23-07-2023,Books,Northeast,white,9382.559294
+04-12-2022,Home Appliances,Midwest,stage,6611.580643
+02-10-2023,Electronics,Southwest,let,3602.490129
+12-05-2023,Electronics,Midwest,theory,1788.741487
+14-12-2022,Clothing,West,interesting,3547.697379
+22-01-2023,Home Appliances,Southeast,make,2927.539033
+02-09-2023,Clothing,Southwest,able,6766.760449
+07-12-2022,Books,Southwest,feel,8743.907399
+20-05-2023,Electronics,Southwest,standard,5135.463055
+19-06-2023,Books,Northeast,pass,6486.965565
+10-10-2023,Books,Southwest,choice,5940.865309
+11-09-2023,Electronics,Northeast,street,6894.897163
+10-05-2023,Electronics,Northeast,anything,8715.788709
+12-06-2023,Toys,Southeast,guy,8561.742845
+16-12-2022,Toys,West,job,2000.684338
+25-11-2022,Home Appliances,Southwest,church,4938.697826
+11-06-2023,Toys,Midwest,break,7788.207869
+26-11-2022,Electronics,Northeast,night,1457.824194
+07-01-2023,Electronics,Northeast,develop,8803.946913
+09-11-2022,Home Appliances,Southeast,argue,6256.920511
+15-08-2023,Electronics,Southwest,so,8000.913363
+02-01-2023,Toys,Northeast,billion,325.8560642
+03-12-2022,Electronics,West,through,2526.75069
+10-08-2023,Clothing,Southwest,describe,1348.284631
+04-02-2023,Clothing,Southwest,station,4759.058356
+28-10-2022,Books,Midwest,after,3046.249269
+28-03-2023,Toys,Northeast,deep,270.9987511
+09-08-2023,Books,Midwest,window,1325.988711
+12-02-2023,Toys,Midwest,last,4038.377771
+01-03-2023,Books,Midwest,father,8762.104583
+05-08-2023,Home Appliances,Northeast,tonight,3862.366976
+12-10-2023,Books,Midwest,mouth,9081.9775
+19-07-2023,Electronics,Northeast,statement,6893.969062
+03-06-2023,Home Appliances,West,might,5882.157509
+31-07-2023,Electronics,Midwest,human,8335.691129
+22-12-2022,Clothing,West,scientist,5200.79393
+12-02-2023,Home Appliances,Midwest,early,8967.62905
+16-03-2023,Clothing,West,realize,9503.169825
+14-04-2023,Clothing,Midwest,position,5531.476257
+12-12-2022,Toys,West,know,5655.594524
+18-11-2022,Electronics,Southeast,game,9100.075122
+04-09-2023,Home Appliances,West,space,2549.263602
+11-09-2023,Electronics,West,expect,3112.890884
+23-05-2023,Electronics,Midwest,action,395.8246852
+08-07-2023,Books,Southwest,feeling,3415.976409
+15-03-2023,Toys,West,arrive,9645.907693
+01-01-2023,Toys,Northeast,ten,2200.140517
+25-07-2023,Toys,Southeast,with,6055.318669
+26-11-2022,Books,Southwest,little,5905.408197
+28-08-2023,Electronics,West,across,6038.510585
+06-08-2023,Toys,Midwest,until,5954.618594
+09-10-2023,Home Appliances,Midwest,point,9399.041257
+22-07-2023,Toys,Northeast,American,436.6437783
+27-10-2022,Toys,Northeast,story,6039.212359
+07-12-2022,Clothing,Northeast,technology,5503.727006
